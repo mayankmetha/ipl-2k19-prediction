@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import os
 
 def extractData(name,team,url):
-    base = '../datasets/PlayerStats/'
+    base = '../datasets/PlayerStatsCricInfo/'
     batpath = base+'bat/'+team+'/'+name+'.csv'
     bowlpath = base+'bowl/'+team+'/'+name+'.csv'
     page = requests.get(url)
