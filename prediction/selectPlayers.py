@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+import os
 from tkinter import *
 
 teams = ['CSK','DC','KXIP','KKR','MI','RR','RCB','SRH']
@@ -10,8 +12,6 @@ team1L = None
 team2L = None
 team1 = None
 team2 = None
-team1SB = None
-team2SB = None
 root = None
 
 def main():
@@ -37,18 +37,26 @@ def main():
     team2L = Label(root,text="Team2:")
     team2L.pack()
     team2L.place(relx=0.60,rely=0.15,anchor=CENTER)
+    
+def readTeamFile(team):
+    l = []
+    fin = open(os.getcwd()+'/../datasets/teamList/'+team,'r')
+    for line in fin.readlines():
+        s = line.split(",")
+        l.append(s[1])
+    fin.close()
+    return l
 
 def teamSelect():
     global teamVar
     global win
     win = Toplevel()
-    win.wm_title("Team Select")
-    win.geometry("250x200")
+    win.wm_title("Team")
     teamVar = IntVar()
     teamVar.set(0)
     i = 0
     for t in teams:
-        tmp = Radiobutton(win,text=t,variable=teamVar,value=i,command=updateTeams)
+        tmp = Radiobutton(win,indicatoron = 0,width=20,text=t,variable=teamVar,value=i,command=updateTeams)
         tmp.pack()
         i += 1
 
@@ -61,6 +69,8 @@ def updateTeams():
     global teamVar
     global team1
     global team2
+    global team1S
+    global team2S
     team.append(teams[teamVar.get()])
     teams.remove(teams[teamVar.get()])
     win.destroy()
@@ -72,7 +82,8 @@ def updateTeams():
         team1.configure(state=DISABLED)
         team1.pack()
         team1.place(relx=0.3,rely=0.075,anchor=CENTER)
-        team1Function()
+        team1S = readTeamFile(team[0])
+        teamFunction(0,team1S)
     except:
         pass
     try:
@@ -83,30 +94,41 @@ def updateTeams():
         team2.configure(state=DISABLED)
         team2.pack()
         team2.place(relx=0.3,rely=0.15,anchor=CENTER)
-        team2Function()
+        team2S = readTeamFile(team[1])
+        teamFunction(1,team2S)
     except:
         pass
 
-def team1Function():
+def teamFunction(index,t):
     global root
-    global team1SB
-    team1SelectionText = Label(root,text="SELECT PLAYING 11 FOR "+team[0])
-    team1SelectionText.pack()
-    team1SelectionText.place(relx=0.5,rely=0.215,anchor=CENTER)
-    team1SB = Button(root,text=team[0]+" PLAYING 11")
-    team1SB.pack()
-    team1SB.place(relx=0.5,rely=0.275,anchor=CENTER)
+    teamSelectionText = Label(root,text="SELECT PLAYING 11 FOR "+team[index])
+    teamSelectionText.pack()
+    if index == 0:
+        teamSelectionText.place(relx=0.5,rely=0.215,anchor=CENTER)
+    else:
+        teamSelectionText.place(relx=0.5,rely=0.350,anchor=CENTER)
+    teamB = Button(root,text=team[index]+" PLAYING 11",command=lambda:selectPlayingSquad(index,t))
+    teamB.pack()
+    if index == 0:
+        teamB.place(relx=0.5,rely=0.275,anchor=CENTER)
+    else:
+        teamB.place(relx=0.5,rely=0.415,anchor=CENTER)
 
-def team2Function():
-    global root
-    global team2SB
-    team2SelectionText = Label(root,text="SELECT PLAYING 11 FOR "+team[1])
-    team2SelectionText.pack()
-    team2SelectionText.place(relx=0.5,rely=0.350,anchor=CENTER)
-    team2SB = Button(root,text=team[1]+" PLAYING 11")
-    team2SB.pack()
-    team2SB.place(relx=0.5,rely=0.415,anchor=CENTER)
-    
+def selectPlayingSquad(index,t):
+    global win
+    global b
+    global i
+    i = 0
+    win = Toplevel()
+    win.wm_title(team[index])
+    lb = Listbox(win,selectmode=MULTIPLE,height=len(t))
+    for x in t:
+        lb.insert(END,x.strip())
+    lb.pack()
+    b = Button(win,text="OK",state=DISABLED)
+    b.pack()
+
+
 root = Tk()
 main()
 root.mainloop()
