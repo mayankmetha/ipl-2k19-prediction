@@ -34,12 +34,14 @@ def extractData(name,team,url):
         bowl.write(",".join(text)+"\n")
     bowl.close()
 
+total = 0
 for files in os.listdir(os.getcwd()+'/../datasets/PlayerInfo'):
     fin = open(os.getcwd()+'/../datasets/PlayerInfo/'+files,'r')
     i = 1
     for lines in fin.readlines():
         s = lines.strip().split(",")
-        print("%s:%02d:%s"%(files,i,s[0]))
+        total += 1
+        print("%03d:%s:%02d:%s"%(total,files,i,s[0]))
         extractData(s[0],files,s[1])
         i += 1
     fin.close()
