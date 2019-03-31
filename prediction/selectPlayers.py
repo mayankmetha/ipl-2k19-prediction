@@ -6,6 +6,8 @@ teams = ['CSK','DC','KXIP','KKR','MI','RR','RCB','SRH']
 team = []
 team1S = []
 team2S = []
+team1P = []
+team2P = []
 teamVar = None
 win = None
 team1L = None
@@ -13,6 +15,10 @@ team2L = None
 team1 = None
 team2 = None
 root = None
+lb = None
+teamB1 = None
+teamB2 = None
+i = 0
 
 def main():
     global root
@@ -101,34 +107,85 @@ def updateTeams():
 
 def teamFunction(index,t):
     global root
+    global teamB1
+    global teamB2
     teamSelectionText = Label(root,text="SELECT PLAYING 11 FOR "+team[index])
     teamSelectionText.pack()
     if index == 0:
         teamSelectionText.place(relx=0.5,rely=0.215,anchor=CENTER)
     else:
         teamSelectionText.place(relx=0.5,rely=0.350,anchor=CENTER)
-    teamB = Button(root,text=team[index]+" PLAYING 11",command=lambda:selectPlayingSquad(index,t))
-    teamB.pack()
     if index == 0:
-        teamB.place(relx=0.5,rely=0.275,anchor=CENTER)
+        teamB1 = Button(root,text=team[index]+" PLAYING 11",command=lambda:selectPlayingSquad(index,t))
+        teamB1.pack()
+        teamB1.place(relx=0.5,rely=0.275,anchor=CENTER)
     else:
-        teamB.place(relx=0.5,rely=0.415,anchor=CENTER)
+        teamB2 = Button(root,text=team[index]+" PLAYING 11",command=lambda:selectPlayingSquad(index,t))
+        teamB2.pack()
+        teamB2.place(relx=0.5,rely=0.415,anchor=CENTER)
 
 def selectPlayingSquad(index,t):
     global win
     global b
-    global i
-    i = 0
+    global lb
     win = Toplevel()
     win.wm_title(team[index])
     lb = Listbox(win,selectmode=MULTIPLE,height=len(t))
     for x in t:
         lb.insert(END,x.strip())
     lb.pack()
-    b = Button(win,text="OK",state=DISABLED)
+    lb.bind("<<ListboxSelect>>",buttonStateToggle)
+    b = Button(win,text="OK",state=DISABLED,command=lambda:playingSquad(index))
     b.pack()
 
+def playingSquad(index):
+    global win
+    global lb
+    global team1P
+    global team2P
+    global i
+    global teamB1
+    global teamB2
+    if index == 0:
+        team1P = [lb.get(idx) for idx in lb.curselection()]
+        i += 1
+        teamB1.configure(state=DISABLED)
+        teamB1.pack()
+        teamB1.place(relx=0.5,rely=0.275,anchor=CENTER)
+    elif index == 1:
+        team2P = [lb.get(idx) for idx in lb.curselection()]
+        i += 1
+        teamB2.configure(state=DISABLED)
+        teamB2.pack()
+        teamB2.place(relx=0.5,rely=0.415,anchor=CENTER)
+    win.destroy()
+    if i == 2:
+        goNext()
 
+def buttonStateToggle(a):
+    global b
+    global lb
+    if len(lb.curselection()) == 11:
+        b.configure(state=NORMAL)
+        b.pack()
+    else:
+        b.configure(state=DISABLED)
+        b.pack()
+
+def goNext():
+    global root
+    fout = open(os.getcwd()+'/../out/teams','w')
+    fout.write(",".join(team))
+    fout.close()
+    fout = open(os.getcwd()+'/../out/team1','w')
+    fout.write(",".join(team1P))
+    fout.close()
+    fout = open(os.getcwd()+'/../out/team2','w')
+    fout.write(",".join(team2P))
+    fout.close()
+    #start next step as process
+    root.destroy()
+    
 root = Tk()
 main()
 root.mainloop()
