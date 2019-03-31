@@ -9,5 +9,5 @@ for teams in data['squads']['ALL']:
     name = teams['team']['abbreviation']
     fout = open('../datasets/teamList/'+name,'w')
     for p in teams['players']:
-        fout.write(p['fullName']+'\n')
+        fout.write(str(p['id'])+","+p['fullName']+'\n')
     fout.close()
