@@ -1,7 +1,11 @@
-from tkinter import *
+#!/usr/bin/python3
+
+#imports
+from tkinter import Tk,Button,Label,Toplevel,Listbox,CENTER,END,MULTIPLE,DISABLED
 import os
 import sys
 
+# global variables
 root = None
 team = None
 teamList = []
@@ -17,6 +21,7 @@ up = None
 down = None
 i = 0
 
+# get data from files of previous process
 def preprocess(index):
     global teamList
     global team
@@ -35,29 +40,31 @@ def preprocess(index):
         teamList.append(_.strip())
     fin.close()
 
+# root frame
 def main(index):
     global root
     global battingOrderButton
     global bowlerButton
-    root.geometry("500x500")
+    root.geometry("500x200")
     title = "IPL Prediction Step"+str(number+2)
     root.title(title)
     l1 = Label(root,text="Team "+team+"")
     l1.pack()
-    l1.place(relx=0.5,rely=0.025,anchor=CENTER)
+    l1.place(relx=0.5,rely=0.1,anchor=CENTER)
     l2 = Label(root,text="Batting order")
     l2.pack()
-    l2.place(relx=0.5,rely=0.075,anchor=CENTER)
+    l2.place(relx=0.5,rely=0.3,anchor=CENTER)
     battingOrderButton = Button(root,text="Select Batting Order",width=30,command=battingOrder)
     battingOrderButton.pack()
-    battingOrderButton.place(relx=0.5,rely=0.125,anchor=CENTER)
+    battingOrderButton.place(relx=0.5,rely=0.45,anchor=CENTER)
     l3 = Label(root,text="Bowlers List")
     l3.pack()
-    l3.place(relx=0.5,rely=0.200,anchor=CENTER)
+    l3.place(relx=0.5,rely=0.650,anchor=CENTER)
     bowlerButton = Button(root,text="Select Bowlers",width=30,command=bowlerSelection)
     bowlerButton.pack()
-    bowlerButton.place(relx=0.5,rely=0.250,anchor=CENTER)
+    bowlerButton.place(relx=0.5,rely=0.8,anchor=CENTER)
 
+# batting order window
 def battingOrder():
     global win
     global lb
@@ -76,6 +83,7 @@ def battingOrder():
     b = Button(win, text="OK",width=15,command=ok1Clicked)
     b.grid(row=3,columnspan=2)
 
+# up button click action in batting order window
 def upClicked():
     global lb
     try:
@@ -92,6 +100,7 @@ def upClicked():
     except:
         pass
 
+# down button click action in batting order window
 def downClicked():
     global lb
     try:
@@ -108,6 +117,7 @@ def downClicked():
     except:
         pass
 
+# ok button click in batting order window
 def ok1Clicked():
     global i
     global win
@@ -120,10 +130,11 @@ def ok1Clicked():
     i += 1
     battingOrderButton.configure(state=DISABLED)
     battingOrderButton.pack()
-    battingOrderButton.place(relx=0.5,rely=0.125,anchor=CENTER)
+    battingOrderButton.place(relx=0.5,rely=0.45,anchor=CENTER)
     goNext()
     win.destroy()
 
+# bowler selection window
 def bowlerSelection():
     global win
     global lb
@@ -138,6 +149,7 @@ def bowlerSelection():
     b = Button(win, text="OK",command=ok2Clicked)
     b.pack()
 
+# ok clicked in bowler selection window
 def ok2Clicked():
     global i
     global win
@@ -152,10 +164,11 @@ def ok2Clicked():
     else:
         bowlerButton.configure(state=DISABLED)
         bowlerButton.pack()
-        bowlerButton.place(relx=0.5,rely=0.250,anchor=CENTER)
+        bowlerButton.place(relx=0.5,rely=0.8,anchor=CENTER)
         goNext()
     win.destroy()
 
+# save state and exit process
 def goNext():
     global i
     global number
@@ -173,6 +186,7 @@ def goNext():
     fout.close()
     exit(1)
 
+# global execution
 number = int(sys.argv[1])
 preprocess(number)
 root = Tk()
