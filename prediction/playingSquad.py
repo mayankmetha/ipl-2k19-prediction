@@ -1,4 +1,4 @@
-from tkinter import Tk, Label, Button, Listbox, CENTER, Toplevel, END, MULTIPLE
+from tkinter import *
 import os
 import sys
 
