@@ -27,7 +27,7 @@ def main():
     global team1L
     global team2L
     root.geometry("500x500")
-    root.title("IPL Prediction")
+    root.title("IPL Prediction Step1")
     teamText = Label(root,text="SELECT TEAMS")
     teamText.pack()
     teamText.place(relx=0.5,rely=0.025,anchor=CENTER)
@@ -174,17 +174,19 @@ def buttonStateToggle(a):
 
 def goNext():
     global root
-    fout = open(os.getcwd()+'/../out/teams','w')
-    fout.write(",".join(team))
+    fout = open(os.getcwd()+'/../out/prediction/teams','w')
+    for _ in team:
+        fout.write(_+"\n")
     fout.close()
-    fout = open(os.getcwd()+'/../out/team1','w')
-    fout.write(",".join(team1P))
+    fout = open(os.getcwd()+'/../out/prediction/team0','w')
+    for _ in team1P:
+        fout.write(_+"\n")
     fout.close()
-    fout = open(os.getcwd()+'/../out/team2','w')
-    fout.write(",".join(team2P))
+    fout = open(os.getcwd()+'/../out/prediction/team1','w')
+    for _ in team2P:
+        fout.write(_+"\n")
     fout.close()
-    #start next step as process
-    root.destroy()
+    exit(1)
     
 root = Tk()
 main()
