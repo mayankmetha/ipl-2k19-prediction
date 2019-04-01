@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 import os
-from tkinter import *
+from tkinter import Tk,Button,Label,Radiobutton,Listbox,Toplevel,IntVar,CENTER,MULTIPLE,END,DISABLED,NORMAL
 
 teams = ['CSK','DC','KXIP','KKR','MI','RR','RCB','SRH']
 team = []
@@ -116,11 +116,11 @@ def teamFunction(index,t):
     else:
         teamSelectionText.place(relx=0.5,rely=0.350,anchor=CENTER)
     if index == 0:
-        teamB1 = Button(root,text=team[index]+" PLAYING 11",command=lambda:selectPlayingSquad(index,t))
+        teamB1 = Button(root,text=team[index]+" PLAYING 11",width=30,command=lambda:selectPlayingSquad(index,t))
         teamB1.pack()
         teamB1.place(relx=0.5,rely=0.275,anchor=CENTER)
     else:
-        teamB2 = Button(root,text=team[index]+" PLAYING 11",command=lambda:selectPlayingSquad(index,t))
+        teamB2 = Button(root,text=team[index]+" PLAYING 11",width=30,command=lambda:selectPlayingSquad(index,t))
         teamB2.pack()
         teamB2.place(relx=0.5,rely=0.415,anchor=CENTER)
 
