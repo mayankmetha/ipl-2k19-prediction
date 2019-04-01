@@ -12,6 +12,8 @@ battingOrderButton = None
 bowlerButton = None
 win = None
 lb = None
+b = None
+i = 0
 
 def preprocess(index):
     global teamList
@@ -44,7 +46,7 @@ def main(index):
     l2 = Label(root,text="Batting order")
     l2.pack()
     l2.place(relx=0.5,rely=0.075,anchor=CENTER)
-    battingOrderButton = Button(root,text="Select Batting Order")
+    battingOrderButton = Button(root,text="Select Batting Order",command=battingOrder)
     battingOrderButton.pack()
     battingOrderButton.place(relx=0.5,rely=0.125,anchor=CENTER)
     l3 = Label(root,text="Bowlers List")
@@ -54,18 +56,49 @@ def main(index):
     bowlerButton.pack()
     bowlerButton.place(relx=0.5,rely=0.250,anchor=CENTER)
 
+def battingOrder():
+    pass
+
 def bowlerSelection():
     global win
     global lb
-    global bowlerButton
     global teamList
-    global Bowlers
+    global b
     win = Toplevel()
     win.wm_title("Bowlers")
     lb = Listbox(win,selectmode=MULTIPLE,height=len(teamList))
     for _ in teamList:
         lb.insert(END,_)
     lb.pack()
+    b = Button(win, text="OK",command=ok2Clicked)
+    b.pack()
+
+def ok2Clicked():
+    global i
+    global win
+    global lb
+    global bowlerButton
+    global Bowlers
+    global b
+    Bowlers = [lb.get(idx) for idx in lb.curselection()]
+    i += 1
+    bowlerButton.configure(state=DISABLED)
+    bowlerButton.pack()
+    bowlerButton.place(relx=0.5,rely=0.250,anchor=CENTER)
+    win.destroy()
+    goNext()
+
+def goNext():
+    global i
+    global number
+    global Bowlers
+    if i != 2:
+        return
+    fout = open(os.getcwd()+'/../out/prediction/team'+number+'Bowlers','w')
+    for _ in Bowlers:
+        fout.write(_+"\n")
+    fout.close()
+    exit(1)
 
 number = int(sys.argv[1])
 preprocess(number)
