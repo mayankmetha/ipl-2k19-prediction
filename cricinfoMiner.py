@@ -6,7 +6,7 @@ ses = requests.Session()
 
 
 def extractData(name,team,url):
-    base = '../datasets/PlayerStatsCricInfo/'
+    base = './PlayerStatsCricInfo/'
     batpath = base+'bat/'+team+'/'+name+'.csv'
     bowlpath = base+'bowl/'+team+'/'+name+'.csv'
     page = ses.get(url)
@@ -41,8 +41,8 @@ def extractData(name,team,url):
     bowl.close()
 
 total = 0
-for files in os.listdir(os.getcwd()+'/../datasets/PlayerInfo'):
-    fin = open(os.getcwd()+'/../datasets/PlayerInfo/'+files,'r')
+for files in os.listdir(os.getcwd()+'./PlayerInfo'):
+    fin = open(os.getcwd()+'./PlayerInfo/'+files,'r')
     i = 1
     for lines in fin.readlines():
         s = lines.strip().split(",")
