@@ -109,3 +109,7 @@ for files in teamAbb:
     fin.close()
 fbat.close()
 fbowl.close()
+f = open("status",'w')
+f.write("1")
+f.close()
+exit(1)

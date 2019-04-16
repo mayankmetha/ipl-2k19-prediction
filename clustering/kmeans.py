@@ -31,3 +31,4 @@ out = os.getcwd()+'/../out/clustering/bowl.csv'
 exp = pd.DataFrame(bowl.values[:, 1])
 exp['Cluster'] = kmeans.labels_
 exp.to_csv(out,index=False,sep=':',header=False)
+exit(1)

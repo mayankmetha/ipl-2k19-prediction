@@ -11,3 +11,5 @@ for teams in data['squads']['ALL']:
     for p in teams['players']:
         fout.write(str(p['id'])+","+p['fullName']+'\n')
     fout.close()
+
+exit(1)
