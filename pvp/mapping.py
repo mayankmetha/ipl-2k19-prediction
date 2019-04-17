@@ -3,7 +3,7 @@ import os
 import numpy as np
 import pandas as pd
 
-df1 = pd.read_csv(os.getcwd()+'/../datasets/kaggle/prob18.csv')
+df1 = pd.read_csv(os.getcwd()+'/../datasets/kaggle/runsSplit18.csv')
 dfBat = pd.read_csv(os.getcwd()+'/../out/clustering/bat.csv',sep = ':', header = None, names = ['batsmen','batCluster'])
 dfBowl = pd.read_csv(os.getcwd()+'/../out/clustering/bowl.csv',sep = ':', header = None, names = ['bowler','bowlCluster'])
 
