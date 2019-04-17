@@ -151,13 +151,26 @@ def bowlerSelection():
 
 # ok clicked in bowler selection window
 def ok2Clicked():
+    global win
+    global lb
+    global Bowlers
+    Bowlers = [lb.get(idx) for idx in lb.curselection()]
+    if len(Bowlers) == 0:
+        pass
+    else:
+        win.destroy()
+        bowlerOrder()
+
+# ok clicked in bowler order window
+def ok3Clicked():
     global i
     global win
     global lb
     global bowlerButton
     global Bowlers
-    global b
-    Bowlers = [lb.get(idx) for idx in lb.curselection()]
+    Bowlers = []
+    for _ in lb.get(0,END):
+        Bowlers.append(_)
     i += 1
     if len(Bowlers) == 0:
         pass
@@ -167,6 +180,25 @@ def ok2Clicked():
         bowlerButton.place(relx=0.5,rely=0.8,anchor=CENTER)
         goNext()
     win.destroy()
+
+# open bowling order window
+def bowlerOrder():
+    global win
+    global lb
+    global Bowlers
+    global b
+    win = Toplevel()
+    win.wm_title("Bowling Order")
+    lb = Listbox(win,height=len(Bowlers))
+    for _ in Bowlers:
+        lb.insert(END,_)
+    lb.grid(row=0,columnspan=2)
+    up = Button(win, text="↑",width=5,command=upClicked)
+    up.grid(row=1,column=0)
+    down = Button(win, text="↓",width=5,command=downClicked)
+    down.grid(row=1,column=1)
+    b = Button(win, text="OK",width=15,command=ok3Clicked)
+    b.grid(row=3,columnspan=2)
 
 # save state and exit process
 def goNext():
@@ -180,7 +212,7 @@ def goNext():
     for _ in BattingOrder:
         fout.write(_+"\n")
     fout.close()
-    fout = open(os.getcwd()+'/../out/prediction/team'+str(number)+'Bowlers','w')
+    fout = open(os.getcwd()+'/../out/prediction/team'+str(number)+'BowlingOrder','w')
     for _ in Bowlers:
         fout.write(_+"\n")
     fout.close()

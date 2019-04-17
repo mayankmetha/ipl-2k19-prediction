@@ -6,7 +6,9 @@
 
 ## execution
 
-`./start.sh`
+`./start.sh [-f]`
+
+-f is optional to perform complete execution from mining to end else will start from GUI execution.
 
 ## addition packages on Ubuntu 18.04
 
