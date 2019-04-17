@@ -13,7 +13,7 @@ batC['Mat'] = bat['Mat']
 batC.replace('-',0,inplace=True)
 kmeans = KMeans(n_clusters=7).fit(batC)
 
-out = os.getcwd()+'/../out/clustering/bat.csv'
+out = os.getcwd()+'/../out/clustering/bat'
 exp = pd.DataFrame(bat.values[:, 1])
 exp['Cluster'] = kmeans.labels_
 exp.to_csv(out,index=False,sep=':',header=False)
@@ -26,7 +26,7 @@ bowlC['SR'] = bowl['SR']
 bowlC.replace('-',0,inplace=True)
 kmeans = KMeans(n_clusters=7).fit(bowlC)
 
-out = os.getcwd()+'/../out/clustering/bowl.csv'
+out = os.getcwd()+'/../out/clustering/bowl'
 exp = pd.DataFrame(bowl.values[:, 1])
 exp['Cluster'] = kmeans.labels_
 exp.to_csv(out,index=False,sep=':',header=False)

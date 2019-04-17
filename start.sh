@@ -68,6 +68,17 @@ then
 fi
 echo -ne "\r\033[1;37m[\033[0m\033[1;32m✔\033[0m\033[1;37m]\033[0m\033[1;33m Executed  \033[0m\033[1;37m:\033[0m\033[1;36m Aggregating Cluster Data\033[0m\n"
 cd ..
+#probability calculation
+cd pvp
+echo -ne "\033[1;37m[\033[0m\033[1;31m✘\033[0m\033[1;37m]\033[0m\033[1;33m Executing \033[0m\033[1;37m:\033[0m\033[1;36m Computing Probability\033[0m"
+python3 probability.py > /dev/null 2>&1
+if [[ $? -ne 1 ]]
+then
+    echo -ne "\r\033[1;37m[\033[0m\033[1;31m✘\033[0m\033[1;37m]\033[0m\033[1;33m Failed    \033[0m\033[1;37m:\033[0m\033[1;36m Computing Probability\033[0m\n"
+    exit
+fi
+echo -ne "\r\033[1;37m[\033[0m\033[1;32m✔\033[0m\033[1;37m]\033[0m\033[1;33m Executed  \033[0m\033[1;37m:\033[0m\033[1;36m Computing Probability\033[0m\n"
+cd ..
 exit
 ## TODO: add prob averaging here
 #gui step 1
