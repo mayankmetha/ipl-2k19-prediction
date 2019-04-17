@@ -4,7 +4,6 @@ import os
 import pandas as pd
 import numpy as np
 from sklearn.cluster import KMeans
-import matplotlib.pyplot as plt
 
 bat = pd.read_csv(os.getcwd()+'/../datasets/PlayerStatsIPL/bat.csv')
 batC = pd.DataFrame()
