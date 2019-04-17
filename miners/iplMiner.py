@@ -94,7 +94,7 @@ for files in teamAbb:
         s = lines.strip().split(",")
         url = baseTeamUrl+teamUrl[teamAbb.index(files)]+"/squad/"+s[0]+"/"+s[1].replace(" ","-")
         total +=1 
-        print("%03d:%s:%02d:%s:%s"%(total,files,i,s[1],url))
+        print("%03d : %-4s : %02d : %-s "%(total,files,i,s[1]))
         if flag == 1:
             header = getheaders(url)
             string = header.split("#")
