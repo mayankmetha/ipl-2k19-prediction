@@ -2,7 +2,7 @@
 #clean up
 echo -ne "\033[1;37m[\033[0m\033[1;31m✘\033[0m\033[1;37m]\033[0m\033[1;33m Executing \033[0m\033[1;37m:\033[0m\033[1;36m Clean Up\033[0m"
 rm -rf out/ > /dev/null 2>&1
-mkdir out out/prediction out/clustering > /dev/null 2>&1
+mkdir out out/prediction out/clustering out/pvp > /dev/null 2>&1
 rm datasets/teamList/* > /dev/null 2>&1
 rm datasets/PlayerStatsIPL/* > /dev/null 2>&1
 echo -ne "\r\033[1;37m[\033[0m\033[1;32m✔\033[0m\033[1;37m]\033[0m\033[1;33m Executed  \033[0m\033[1;37m:\033[0m\033[1;36m Clean Up\033[0m\n"
@@ -46,6 +46,19 @@ then
 fi
 echo -ne "\r\033[1;37m[\033[0m\033[1;32m✔\033[0m\033[1;37m]\033[0m\033[1;33m Executed  \033[0m\033[1;37m:\033[0m\033[1;36m Clustering\033[0m\n"
 cd ..
+#cluster mapping to probability
+cd pvp
+echo -ne "\033[1;37m[\033[0m\033[1;31m✘\033[0m\033[1;37m]\033[0m\033[1;33m Executing \033[0m\033[1;37m:\033[0m\033[1;36m Mapping Cluster Data\033[0m"
+python3 mapping.py > /dev/null 2>&1
+if [[ $? -ne 1 ]]
+then
+    echo -ne "\r\033[1;37m[\033[0m\033[1;31m✘\033[0m\033[1;37m]\033[0m\033[1;33m Failed    \033[0m\033[1;37m:\033[0m\033[1;36m Mapping Cluster Data\033[0m\n"
+    exit
+fi
+echo -ne "\r\033[1;37m[\033[0m\033[1;32m✔\033[0m\033[1;37m]\033[0m\033[1;33m Executed  \033[0m\033[1;37m:\033[0m\033[1;36m Mapping Cluster Data\033[0m\n"
+cd ..
+exit
+## TODO: add prob averaging here
 #gui step 1
 cd prediction
 echo -ne "\033[1;37m[\033[0m\033[1;31m✘\033[0m\033[1;37m]\033[0m\033[1;33m Executing \033[0m\033[1;37m:\033[0m\033[1;36m Select Team & Squad\033[0m"
