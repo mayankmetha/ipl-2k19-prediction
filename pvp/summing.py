@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 
 df1 = pd.read_csv(os.getcwd()+'/../out/pvp/batsmenMap')
-columns=['batsmen','bowler','delivery','0s','1s','2s','3s','4s','5s','6s']
+columns=['batsmen','bowler','delivery','balls','0s','1s','2s','3s','4s','5s','6s']
 outFile = os.getcwd()+'/../out/pvp/batsmenRed'
 f = open(outFile,'w')
 f.write(",".join(columns)+"\n")
@@ -21,12 +21,14 @@ for key1, item1 in a:
     four = None
     five = None
     six = None
+    balls = None
     b = a.get_group(key1).groupby(['bowler'])
     for key2, item2 in b:
         bowler = str(key2)
         c = b.get_group(key2).groupby(['delivery'])
         for key3, item3 in c:
             delivery = str(key3)
+            balls = str(c.get_group(key3)['balls'].sum())
             zero = str(c.get_group(key3)['0s'].sum())
             one = str(c.get_group(key3)['1s'].sum())
             two = str(c.get_group(key3)['2s'].sum())
@@ -34,7 +36,7 @@ for key1, item1 in a:
             four = str(c.get_group(key3)['4s'].sum())
             five = str(c.get_group(key3)['5s'].sum())
             six = str(c.get_group(key3)['6s'].sum())
-            f.write(batsmen+","+bowler+","+delivery+","+zero+","+one+","+two+","+three+","+four+","+five+","+six+"\n")
+            f.write(batsmen+","+bowler+","+delivery+","+balls+","+zero+","+one+","+two+","+three+","+four+","+five+","+six+"\n")
 f.close()
 
 df2 = pd.read_csv(os.getcwd()+'/../out/pvp/bowlersMap')
