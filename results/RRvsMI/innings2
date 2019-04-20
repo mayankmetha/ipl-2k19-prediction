@@ -1,0 +1,107 @@
+over,ball,runs,wickets,action,striker,non-striker,bowler
+0,0,4,0,scored 4,Quinton de Kock,Rohit Sharma,Stuart Binny
+0,1,5,0,scored 1,Quinton de Kock,Rohit Sharma,Stuart Binny
+0,2,6,0,scored 1,Rohit Sharma,Quinton de Kock,Stuart Binny
+0,3,7,0,scored 1,Quinton de Kock,Rohit Sharma,Stuart Binny
+0,4,8,0,scored 1,Rohit Sharma,Quinton de Kock,Stuart Binny
+0,5,8,0,scored 0,Quinton de Kock,Rohit Sharma,Stuart Binny
+1,0,9,0,scored 1,Rohit Sharma,Quinton de Kock,Dhawal Kulkarni
+1,1,10,0,scored 1,Quinton de Kock,Rohit Sharma,Dhawal Kulkarni
+1,2,11,0,scored 1,Rohit Sharma,Quinton de Kock,Dhawal Kulkarni
+1,3,12,0,scored 1,Quinton de Kock,Rohit Sharma,Dhawal Kulkarni
+1,4,13,0,scored 1,Rohit Sharma,Quinton de Kock,Dhawal Kulkarni
+1,5,14,0,scored 1,Quinton de Kock,Rohit Sharma,Dhawal Kulkarni
+2,0,15,0,scored 1,Quinton de Kock,Rohit Sharma,Shreyas Gopal
+2,1,16,0,scored 1,Rohit Sharma,Quinton de Kock,Shreyas Gopal
+2,2,16,0,scored 0,Quinton de Kock,Rohit Sharma,Shreyas Gopal
+2,3,17,0,scored 1,Quinton de Kock,Rohit Sharma,Shreyas Gopal
+2,4,18,0,scored 1,Rohit Sharma,Quinton de Kock,Shreyas Gopal
+2,5,18,0,scored 0,Quinton de Kock,Rohit Sharma,Shreyas Gopal
+3,0,19,0,scored 1,Rohit Sharma,Quinton de Kock,Jofra Archer
+3,1,20,0,scored 1,Quinton de Kock,Rohit Sharma,Jofra Archer
+3,2,21,0,scored 1,Rohit Sharma,Quinton de Kock,Jofra Archer
+3,3,22,0,scored 1,Quinton de Kock,Rohit Sharma,Jofra Archer
+3,4,23,0,scored 1,Rohit Sharma,Quinton de Kock,Jofra Archer
+3,5,23,0,scored 0,Quinton de Kock,Rohit Sharma,Jofra Archer
+4,0,24,0,scored 1,Rohit Sharma,Quinton de Kock,Jaydev Unadkat
+4,1,25,0,scored 1,Quinton de Kock,Rohit Sharma,Jaydev Unadkat
+4,2,26,0,scored 1,Rohit Sharma,Quinton de Kock,Jaydev Unadkat
+4,3,27,0,scored 1,Quinton de Kock,Rohit Sharma,Jaydev Unadkat
+4,4,28,0,scored 1,Rohit Sharma,Quinton de Kock,Jaydev Unadkat
+4,5,29,0,scored 1,Quinton de Kock,Rohit Sharma,Jaydev Unadkat
+5,0,30,0,scored 1,Quinton de Kock,Rohit Sharma,Ben Stokes
+5,1,31,0,scored 1,Rohit Sharma,Quinton de Kock,Ben Stokes
+5,2,32,0,scored 1,Quinton de Kock,Rohit Sharma,Ben Stokes
+5,3,33,0,scored 1,Rohit Sharma,Quinton de Kock,Ben Stokes
+5,4,34,0,scored 1,Quinton de Kock,Rohit Sharma,Ben Stokes
+5,5,35,0,scored 1,Rohit Sharma,Quinton de Kock,Ben Stokes
+6,0,36,0,scored 1,Rohit Sharma,Quinton de Kock,Stuart Binny
+6,1,37,0,scored 1,Quinton de Kock,Rohit Sharma,Stuart Binny
+6,2,38,0,scored 1,Rohit Sharma,Quinton de Kock,Stuart Binny
+6,3,39,0,scored 1,Quinton de Kock,Rohit Sharma,Stuart Binny
+6,4,40,0,scored 1,Rohit Sharma,Quinton de Kock,Stuart Binny
+6,5,40,0,scored 0,Quinton de Kock,Rohit Sharma,Stuart Binny
+7,0,41,0,scored 1,Rohit Sharma,Quinton de Kock,Dhawal Kulkarni
+7,1,42,0,scored 1,Quinton de Kock,Rohit Sharma,Dhawal Kulkarni
+7,2,43,0,scored 1,Rohit Sharma,Quinton de Kock,Dhawal Kulkarni
+7,3,44,0,scored 1,Quinton de Kock,Rohit Sharma,Dhawal Kulkarni
+7,4,45,0,scored 1,Rohit Sharma,Quinton de Kock,Dhawal Kulkarni
+7,5,46,0,scored 1,Quinton de Kock,Rohit Sharma,Dhawal Kulkarni
+8,0,47,0,scored 1,Quinton de Kock,Rohit Sharma,Shreyas Gopal
+8,1,48,0,scored 1,Rohit Sharma,Quinton de Kock,Shreyas Gopal
+8,2,48,0,scored 0,Quinton de Kock,Rohit Sharma,Shreyas Gopal
+8,3,49,0,scored 1,Quinton de Kock,Rohit Sharma,Shreyas Gopal
+8,4,50,0,scored 1,Rohit Sharma,Quinton de Kock,Shreyas Gopal
+8,5,50,0,scored 0,Quinton de Kock,Rohit Sharma,Shreyas Gopal
+9,0,51,0,scored 1,Rohit Sharma,Quinton de Kock,Jofra Archer
+9,1,52,0,scored 1,Quinton de Kock,Rohit Sharma,Jofra Archer
+9,2,53,0,scored 1,Rohit Sharma,Quinton de Kock,Jofra Archer
+9,3,54,0,scored 1,Quinton de Kock,Rohit Sharma,Jofra Archer
+9,4,55,0,scored 1,Rohit Sharma,Quinton de Kock,Jofra Archer
+9,5,55,0,scored 0,Quinton de Kock,Rohit Sharma,Jofra Archer
+10,0,56,0,scored 1,Rohit Sharma,Quinton de Kock,Jaydev Unadkat
+10,1,56,0,out,Quinton de Kock,Rohit Sharma,Jaydev Unadkat
+10,2,57,1,scored 1,Suryakumar Yadav,Rohit Sharma,Jaydev Unadkat
+10,3,58,1,scored 1,Rohit Sharma,Suryakumar Yadav,Jaydev Unadkat
+10,4,59,1,scored 1,Suryakumar Yadav,Rohit Sharma,Jaydev Unadkat
+10,5,60,1,scored 1,Rohit Sharma,Suryakumar Yadav,Jaydev Unadkat
+11,0,61,1,scored 1,Rohit Sharma,Suryakumar Yadav,Ben Stokes
+11,1,62,1,scored 1,Suryakumar Yadav,Rohit Sharma,Ben Stokes
+11,2,63,1,scored 1,Rohit Sharma,Suryakumar Yadav,Ben Stokes
+11,3,64,1,scored 1,Suryakumar Yadav,Rohit Sharma,Ben Stokes
+11,4,65,1,scored 1,Rohit Sharma,Suryakumar Yadav,Ben Stokes
+11,5,66,1,scored 1,Suryakumar Yadav,Rohit Sharma,Ben Stokes
+12,0,70,1,scored 4,Suryakumar Yadav,Rohit Sharma,Stuart Binny
+12,1,71,1,scored 1,Suryakumar Yadav,Rohit Sharma,Stuart Binny
+12,2,72,1,scored 1,Rohit Sharma,Suryakumar Yadav,Stuart Binny
+12,3,73,1,scored 1,Suryakumar Yadav,Rohit Sharma,Stuart Binny
+12,4,74,1,scored 1,Rohit Sharma,Suryakumar Yadav,Stuart Binny
+12,5,74,1,scored 0,Suryakumar Yadav,Rohit Sharma,Stuart Binny
+13,0,75,1,scored 1,Rohit Sharma,Suryakumar Yadav,Dhawal Kulkarni
+13,1,76,1,scored 1,Suryakumar Yadav,Rohit Sharma,Dhawal Kulkarni
+13,2,77,1,scored 1,Rohit Sharma,Suryakumar Yadav,Dhawal Kulkarni
+13,3,78,1,scored 1,Suryakumar Yadav,Rohit Sharma,Dhawal Kulkarni
+13,4,79,1,scored 1,Rohit Sharma,Suryakumar Yadav,Dhawal Kulkarni
+13,5,80,1,scored 1,Suryakumar Yadav,Rohit Sharma,Dhawal Kulkarni
+14,0,81,1,scored 1,Suryakumar Yadav,Rohit Sharma,Shreyas Gopal
+14,1,81,1,out,Rohit Sharma,Suryakumar Yadav,Shreyas Gopal
+14,2,82,2,scored 1,Kieron Pollard,Suryakumar Yadav,Shreyas Gopal
+14,3,83,2,scored 1,Suryakumar Yadav,Kieron Pollard,Shreyas Gopal
+14,4,84,2,scored 1,Kieron Pollard,Suryakumar Yadav,Shreyas Gopal
+14,5,84,2,scored 0,Suryakumar Yadav,Kieron Pollard,Shreyas Gopal
+15,0,85,2,scored 1,Kieron Pollard,Suryakumar Yadav,Jofra Archer
+15,1,86,2,scored 1,Suryakumar Yadav,Kieron Pollard,Jofra Archer
+15,2,87,2,scored 1,Kieron Pollard,Suryakumar Yadav,Jofra Archer
+15,3,88,2,scored 1,Suryakumar Yadav,Kieron Pollard,Jofra Archer
+15,4,89,2,scored 1,Kieron Pollard,Suryakumar Yadav,Jofra Archer
+15,5,89,2,scored 0,Suryakumar Yadav,Kieron Pollard,Jofra Archer
+16,0,90,2,scored 1,Kieron Pollard,Suryakumar Yadav,Jaydev Unadkat
+16,1,91,2,scored 1,Suryakumar Yadav,Kieron Pollard,Jaydev Unadkat
+16,2,92,2,scored 1,Kieron Pollard,Suryakumar Yadav,Jaydev Unadkat
+16,3,93,2,scored 1,Suryakumar Yadav,Kieron Pollard,Jaydev Unadkat
+16,4,94,2,scored 1,Kieron Pollard,Suryakumar Yadav,Jaydev Unadkat
+16,5,95,2,scored 1,Suryakumar Yadav,Kieron Pollard,Jaydev Unadkat
+17,0,96,2,scored 1,Suryakumar Yadav,Kieron Pollard,Ben Stokes
+17,1,97,2,scored 1,Kieron Pollard,Suryakumar Yadav,Ben Stokes
+17,2,98,2,scored 1,Suryakumar Yadav,Kieron Pollard,Ben Stokes
+17,3,99,2,scored 1,Kieron Pollard,Suryakumar Yadav,Ben Stokes
