@@ -14,7 +14,7 @@ df1['6s'] = df1['6s']/df1['balls']
 df1.to_csv(os.getcwd()+'/../out/pvp/runsProb',index=False,sep=',')
 
 df2 = pd.read_csv(os.getcwd()+'/../out/pvp/bowlersRed')
-df2['wickets'] = df2['wickets']/df1['balls']
+df2['wickets'] = df2['wickets']/df2['balls']
 df2.to_csv(os.getcwd()+'/../out/pvp/wicketsProb',index=False,sep=',')
 
 exit(1)

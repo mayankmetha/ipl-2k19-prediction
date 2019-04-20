@@ -3,6 +3,7 @@
 echo -ne "\033[5;1;35m ★ \033[0m\033[1;33m Executing \033[0m\033[1;37m:\033[0m\033[1;36m Clean Up\033[0m"
 rm -rf out/prediction > /dev/null 2>&1
 mkdir out out/prediction > /dev/null 2>&1
+mkdir results > /dev/null 2>&1
 if [[ $1 == '-f' ]]
 then
     mkdir out/clustering out/pvp > /dev/null 2>&1
@@ -132,3 +133,19 @@ then
 fi
 echo -ne "\r\033[5;1;32m ✔ \033[0m\033[1;33m Executed  \033[0m\033[1;37m:\033[0m\033[1;36m Toss\033[0m\n"
 cd ..
+#simulation step
+cd prediction
+echo -ne "\033[5;1;35m ★ \033[0m\033[1;33m Executing \033[0m\033[1;37m:\033[0m\033[1;36m Simulation\033[0m"
+python3 prediction.py > /dev/null 2>&1
+if [[ $? -ne 1 ]]
+then
+    echo -ne "\r\033[5;1;31m ✘ \033[0m\033[1;33m Failed    \033[0m\033[1;37m:\033[0m\033[1;36m Simulation\033[0m\n"
+    exit
+fi
+echo -ne "\r\033[5;1;32m ✔ \033[0m\033[1;33m Executed  \033[0m\033[1;37m:\033[0m\033[1;36m Simulation\033[0m\n"
+cd ..
+#Display output Folders
+path="results/"$team0"vs"$team1
+winner=`cat $path"/winner" |head -1`
+echo -ne "\033[5;1;35m ★ \033[0m\033[1;33m Winner    \033[0m\033[1;37m:\033[0m\033[1;36m $winner\033[0m\n"
+echo -ne "\033[5;1;35m ★ \033[0m\033[1;33m Output    \033[0m\033[1;37m:\033[0m\033[1;36m $path\033[0m\n"
