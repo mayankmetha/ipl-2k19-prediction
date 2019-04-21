@@ -11,7 +11,7 @@ batC['Ave'] = bat['Ave']
 batC['SR'] = bat['SR']
 batC['Mat'] = bat['Mat']
 batC.replace('-',0,inplace=True)
-kmeans = KMeans(n_clusters=7).fit(batC)
+kmeans = KMeans(n_clusters=5).fit(batC)
 
 out = os.getcwd()+'/../out/clustering/bat'
 exp = pd.DataFrame(bat.values[:, 1])
@@ -24,7 +24,7 @@ bowlC['Ave'] = bowl['Ave']
 bowlC['Econ'] = bowl['Econ']
 bowlC['SR'] = bowl['SR']
 bowlC.replace('-',0,inplace=True)
-kmeans = KMeans(n_clusters=7).fit(bowlC)
+kmeans = KMeans(n_clusters=5).fit(bowlC)
 
 out = os.getcwd()+'/../out/clustering/bowl'
 exp = pd.DataFrame(bowl.values[:, 1])
