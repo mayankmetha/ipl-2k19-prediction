@@ -1,0 +1,107 @@
+over,ball,runs,wickets,action,striker,non-striker,bowler
+0,0,1,0,scored 1,Shane Watson,Faf du Plessis,Yuzvendra Chahal
+0,1,2,0,scored 1,Faf du Plessis,Shane Watson,Yuzvendra Chahal
+0,2,3,0,scored 1,Shane Watson,Faf du Plessis,Yuzvendra Chahal
+0,3,4,0,scored 1,Faf du Plessis,Shane Watson,Yuzvendra Chahal
+0,4,5,0,scored 1,Shane Watson,Faf du Plessis,Yuzvendra Chahal
+0,5,6,0,scored 1,Faf du Plessis,Shane Watson,Yuzvendra Chahal
+1,0,7,0,scored 1,Faf du Plessis,Shane Watson,Pawan Negi
+1,1,8,0,scored 1,Shane Watson,Faf du Plessis,Pawan Negi
+1,2,9,0,scored 1,Faf du Plessis,Shane Watson,Pawan Negi
+1,3,10,0,scored 1,Shane Watson,Faf du Plessis,Pawan Negi
+1,4,11,0,scored 1,Faf du Plessis,Shane Watson,Pawan Negi
+1,5,12,0,scored 1,Shane Watson,Faf du Plessis,Pawan Negi
+2,0,13,0,scored 1,Shane Watson,Faf du Plessis,Navdeep Saini
+2,1,14,0,scored 1,Faf du Plessis,Shane Watson,Navdeep Saini
+2,2,15,0,scored 1,Shane Watson,Faf du Plessis,Navdeep Saini
+2,3,16,0,scored 1,Faf du Plessis,Shane Watson,Navdeep Saini
+2,4,16,0,scored 0,Shane Watson,Faf du Plessis,Navdeep Saini
+2,5,17,0,scored 1,Shane Watson,Faf du Plessis,Navdeep Saini
+3,0,18,0,scored 1,Shane Watson,Faf du Plessis,Dale Steyn
+3,1,19,0,scored 1,Faf du Plessis,Shane Watson,Dale Steyn
+3,2,20,0,scored 1,Shane Watson,Faf du Plessis,Dale Steyn
+3,3,21,0,scored 1,Faf du Plessis,Shane Watson,Dale Steyn
+3,4,22,0,scored 1,Shane Watson,Faf du Plessis,Dale Steyn
+3,5,23,0,scored 1,Faf du Plessis,Shane Watson,Dale Steyn
+4,0,24,0,scored 1,Faf du Plessis,Shane Watson,Umesh Yadav
+4,1,25,0,scored 1,Shane Watson,Faf du Plessis,Umesh Yadav
+4,2,26,0,scored 1,Faf du Plessis,Shane Watson,Umesh Yadav
+4,3,27,0,scored 1,Shane Watson,Faf du Plessis,Umesh Yadav
+4,4,28,0,scored 1,Faf du Plessis,Shane Watson,Umesh Yadav
+4,5,29,0,scored 1,Shane Watson,Faf du Plessis,Umesh Yadav
+5,0,30,0,scored 1,Shane Watson,Faf du Plessis,Marcus Stoinis
+5,1,31,0,scored 1,Faf du Plessis,Shane Watson,Marcus Stoinis
+5,2,32,0,scored 1,Shane Watson,Faf du Plessis,Marcus Stoinis
+5,3,33,0,scored 1,Faf du Plessis,Shane Watson,Marcus Stoinis
+5,4,34,0,scored 1,Shane Watson,Faf du Plessis,Marcus Stoinis
+5,5,35,0,scored 1,Faf du Plessis,Shane Watson,Marcus Stoinis
+6,0,36,0,scored 1,Faf du Plessis,Shane Watson,Yuzvendra Chahal
+6,1,37,0,scored 1,Shane Watson,Faf du Plessis,Yuzvendra Chahal
+6,2,37,0,scored 0,Faf du Plessis,Shane Watson,Yuzvendra Chahal
+6,3,38,0,scored 1,Faf du Plessis,Shane Watson,Yuzvendra Chahal
+6,4,39,0,scored 1,Shane Watson,Faf du Plessis,Yuzvendra Chahal
+6,5,40,0,scored 1,Faf du Plessis,Shane Watson,Yuzvendra Chahal
+7,0,41,0,scored 1,Faf du Plessis,Shane Watson,Pawan Negi
+7,1,42,0,scored 1,Shane Watson,Faf du Plessis,Pawan Negi
+7,2,43,0,scored 1,Faf du Plessis,Shane Watson,Pawan Negi
+7,3,44,0,scored 1,Shane Watson,Faf du Plessis,Pawan Negi
+7,4,45,0,scored 1,Faf du Plessis,Shane Watson,Pawan Negi
+7,5,46,0,scored 1,Shane Watson,Faf du Plessis,Pawan Negi
+8,0,47,0,scored 1,Shane Watson,Faf du Plessis,Navdeep Saini
+8,1,48,0,scored 1,Faf du Plessis,Shane Watson,Navdeep Saini
+8,2,49,0,scored 1,Shane Watson,Faf du Plessis,Navdeep Saini
+8,3,50,0,scored 1,Faf du Plessis,Shane Watson,Navdeep Saini
+8,4,50,0,scored 0,Shane Watson,Faf du Plessis,Navdeep Saini
+8,5,51,0,scored 1,Shane Watson,Faf du Plessis,Navdeep Saini
+9,0,52,0,scored 1,Shane Watson,Faf du Plessis,Dale Steyn
+9,1,53,0,scored 1,Faf du Plessis,Shane Watson,Dale Steyn
+9,2,54,0,scored 1,Shane Watson,Faf du Plessis,Dale Steyn
+9,3,55,0,scored 1,Faf du Plessis,Shane Watson,Dale Steyn
+9,4,56,0,scored 1,Shane Watson,Faf du Plessis,Dale Steyn
+9,5,57,0,scored 1,Faf du Plessis,Shane Watson,Dale Steyn
+10,0,58,0,scored 1,Faf du Plessis,Shane Watson,Umesh Yadav
+10,1,59,0,scored 1,Shane Watson,Faf du Plessis,Umesh Yadav
+10,2,60,0,scored 1,Faf du Plessis,Shane Watson,Umesh Yadav
+10,3,61,0,scored 1,Shane Watson,Faf du Plessis,Umesh Yadav
+10,4,61,0,out,Faf du Plessis,Shane Watson,Umesh Yadav
+10,5,62,1,scored 1,Suresh Raina,Shane Watson,Umesh Yadav
+11,0,63,1,scored 1,Suresh Raina,Shane Watson,Marcus Stoinis
+11,1,64,1,scored 1,Shane Watson,Suresh Raina,Marcus Stoinis
+11,2,65,1,scored 1,Suresh Raina,Shane Watson,Marcus Stoinis
+11,3,66,1,scored 1,Shane Watson,Suresh Raina,Marcus Stoinis
+11,4,67,1,scored 1,Suresh Raina,Shane Watson,Marcus Stoinis
+11,5,67,1,out,Shane Watson,Suresh Raina,Marcus Stoinis
+12,0,68,2,scored 1,Suresh Raina,Ambati Rayudu,Yuzvendra Chahal
+12,1,69,2,scored 1,Ambati Rayudu,Suresh Raina,Yuzvendra Chahal
+12,2,70,2,scored 1,Suresh Raina,Ambati Rayudu,Yuzvendra Chahal
+12,3,71,2,scored 1,Ambati Rayudu,Suresh Raina,Yuzvendra Chahal
+12,4,72,2,scored 1,Suresh Raina,Ambati Rayudu,Yuzvendra Chahal
+12,5,73,2,scored 1,Ambati Rayudu,Suresh Raina,Yuzvendra Chahal
+13,0,74,2,scored 1,Ambati Rayudu,Suresh Raina,Pawan Negi
+13,1,75,2,scored 1,Suresh Raina,Ambati Rayudu,Pawan Negi
+13,2,76,2,scored 1,Ambati Rayudu,Suresh Raina,Pawan Negi
+13,3,77,2,scored 1,Suresh Raina,Ambati Rayudu,Pawan Negi
+13,4,78,2,scored 1,Ambati Rayudu,Suresh Raina,Pawan Negi
+13,5,79,2,scored 1,Suresh Raina,Ambati Rayudu,Pawan Negi
+14,0,80,2,scored 1,Suresh Raina,Ambati Rayudu,Navdeep Saini
+14,1,81,2,scored 1,Ambati Rayudu,Suresh Raina,Navdeep Saini
+14,2,82,2,scored 1,Suresh Raina,Ambati Rayudu,Navdeep Saini
+14,3,82,2,scored 0,Ambati Rayudu,Suresh Raina,Navdeep Saini
+14,4,82,2,scored 0,Ambati Rayudu,Suresh Raina,Navdeep Saini
+14,5,83,2,scored 1,Ambati Rayudu,Suresh Raina,Navdeep Saini
+15,0,84,2,scored 1,Ambati Rayudu,Suresh Raina,Dale Steyn
+15,1,85,2,scored 1,Suresh Raina,Ambati Rayudu,Dale Steyn
+15,2,86,2,scored 1,Ambati Rayudu,Suresh Raina,Dale Steyn
+15,3,87,2,scored 1,Suresh Raina,Ambati Rayudu,Dale Steyn
+15,4,88,2,scored 1,Ambati Rayudu,Suresh Raina,Dale Steyn
+15,5,89,2,scored 1,Suresh Raina,Ambati Rayudu,Dale Steyn
+16,0,90,2,scored 1,Suresh Raina,Ambati Rayudu,Umesh Yadav
+16,1,91,2,scored 1,Ambati Rayudu,Suresh Raina,Umesh Yadav
+16,2,92,2,scored 1,Suresh Raina,Ambati Rayudu,Umesh Yadav
+16,3,93,2,scored 1,Ambati Rayudu,Suresh Raina,Umesh Yadav
+16,4,94,2,scored 1,Suresh Raina,Ambati Rayudu,Umesh Yadav
+16,5,95,2,scored 1,Ambati Rayudu,Suresh Raina,Umesh Yadav
+17,0,96,2,scored 1,Ambati Rayudu,Suresh Raina,Marcus Stoinis
+17,1,97,2,scored 1,Suresh Raina,Ambati Rayudu,Marcus Stoinis
+17,2,98,2,scored 1,Ambati Rayudu,Suresh Raina,Marcus Stoinis
+17,3,99,2,scored 1,Suresh Raina,Ambati Rayudu,Marcus Stoinis
