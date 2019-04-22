@@ -106,7 +106,7 @@ def simulate(x,fileName):
             wicketProb = [_ for _ in bowlProb[(bowlProb['batsmen'] == batC) & (bowlProb['bowler'] == bowlerC)].wickets][0]
             wicketProb = wicketProb*0.1
         except:
-            wicketProb = uniform(0, 0.25)
+            wicketProb = uniform(0, 0.1)
         # compute probability of striker/b1 getting out
         if ball == 0:
             b1Out = b1Out*(1.0-wicketProb)
@@ -137,7 +137,7 @@ def simulate(x,fileName):
             runs += score
             outFile.write(str(over)+","+str(ball)+","+str(runs)+","+str(wicket)+",scored "+str(score)+","+striker+","+nStriker+","+bowler+"\n")
             # swap striker and non-striker on odd score
-            if (score == 1) | (score == 3) | (score == 5):
+            if (score == 1) or (score == 3) or (score == 5):
                 b1Out, b2Out = b2Out, b1Out
                 striker, nStriker = nStriker, striker
         # innings2 stop condition if score is greater
