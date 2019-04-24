@@ -1,0 +1,121 @@
+over,ball,runs,wickets,action,striker,non-striker,bowler
+0,0,1,0,scored 1,Parthiv Patel,Virat Kohli,Ravichandran Ashwin
+0,1,2,0,scored 1,Virat Kohli,Parthiv Patel,Ravichandran Ashwin
+0,2,3,0,scored 1,Parthiv Patel,Virat Kohli,Ravichandran Ashwin
+0,3,4,0,scored 1,Virat Kohli,Parthiv Patel,Ravichandran Ashwin
+0,4,5,0,scored 1,Parthiv Patel,Virat Kohli,Ravichandran Ashwin
+0,5,6,0,scored 1,Virat Kohli,Parthiv Patel,Ravichandran Ashwin
+1,0,7,0,scored 1,Virat Kohli,Parthiv Patel,Mohammed Shami
+1,1,8,0,scored 1,Parthiv Patel,Virat Kohli,Mohammed Shami
+1,2,9,0,scored 1,Virat Kohli,Parthiv Patel,Mohammed Shami
+1,3,10,0,scored 1,Parthiv Patel,Virat Kohli,Mohammed Shami
+1,4,11,0,scored 1,Virat Kohli,Parthiv Patel,Mohammed Shami
+1,5,12,0,scored 1,Parthiv Patel,Virat Kohli,Mohammed Shami
+2,0,13,0,scored 1,Parthiv Patel,Virat Kohli,Hardus Viljoen
+2,1,14,0,scored 1,Virat Kohli,Parthiv Patel,Hardus Viljoen
+2,2,15,0,scored 1,Parthiv Patel,Virat Kohli,Hardus Viljoen
+2,3,16,0,scored 1,Virat Kohli,Parthiv Patel,Hardus Viljoen
+2,4,17,0,scored 1,Parthiv Patel,Virat Kohli,Hardus Viljoen
+2,5,18,0,scored 1,Virat Kohli,Parthiv Patel,Hardus Viljoen
+3,0,19,0,scored 1,Virat Kohli,Parthiv Patel,Murugan Ashwin
+3,1,20,0,scored 1,Parthiv Patel,Virat Kohli,Murugan Ashwin
+3,2,21,0,scored 1,Virat Kohli,Parthiv Patel,Murugan Ashwin
+3,3,22,0,scored 1,Parthiv Patel,Virat Kohli,Murugan Ashwin
+3,4,23,0,scored 1,Virat Kohli,Parthiv Patel,Murugan Ashwin
+3,5,24,0,scored 1,Parthiv Patel,Virat Kohli,Murugan Ashwin
+4,0,25,0,scored 1,Parthiv Patel,Virat Kohli,Ankit Rajpoot
+4,1,26,0,scored 1,Virat Kohli,Parthiv Patel,Ankit Rajpoot
+4,2,27,0,scored 1,Parthiv Patel,Virat Kohli,Ankit Rajpoot
+4,3,28,0,scored 1,Virat Kohli,Parthiv Patel,Ankit Rajpoot
+4,4,29,0,scored 1,Parthiv Patel,Virat Kohli,Ankit Rajpoot
+4,5,30,0,scored 1,Virat Kohli,Parthiv Patel,Ankit Rajpoot
+5,0,31,0,scored 1,Virat Kohli,Parthiv Patel,Ravichandran Ashwin
+5,1,32,0,scored 1,Parthiv Patel,Virat Kohli,Ravichandran Ashwin
+5,2,33,0,scored 1,Virat Kohli,Parthiv Patel,Ravichandran Ashwin
+5,3,34,0,scored 1,Parthiv Patel,Virat Kohli,Ravichandran Ashwin
+5,4,35,0,scored 1,Virat Kohli,Parthiv Patel,Ravichandran Ashwin
+5,5,36,0,scored 1,Parthiv Patel,Virat Kohli,Ravichandran Ashwin
+6,0,37,0,scored 1,Parthiv Patel,Virat Kohli,Mohammed Shami
+6,1,38,0,scored 1,Virat Kohli,Parthiv Patel,Mohammed Shami
+6,2,39,0,scored 1,Parthiv Patel,Virat Kohli,Mohammed Shami
+6,3,40,0,scored 1,Virat Kohli,Parthiv Patel,Mohammed Shami
+6,4,41,0,scored 1,Parthiv Patel,Virat Kohli,Mohammed Shami
+6,5,42,0,scored 1,Virat Kohli,Parthiv Patel,Mohammed Shami
+7,0,43,0,scored 1,Virat Kohli,Parthiv Patel,Hardus Viljoen
+7,1,44,0,scored 1,Parthiv Patel,Virat Kohli,Hardus Viljoen
+7,2,45,0,scored 1,Virat Kohli,Parthiv Patel,Hardus Viljoen
+7,3,46,0,scored 1,Parthiv Patel,Virat Kohli,Hardus Viljoen
+7,4,47,0,scored 1,Virat Kohli,Parthiv Patel,Hardus Viljoen
+7,5,48,0,scored 1,Parthiv Patel,Virat Kohli,Hardus Viljoen
+8,0,49,0,scored 1,Parthiv Patel,Virat Kohli,Murugan Ashwin
+8,1,50,0,scored 1,Virat Kohli,Parthiv Patel,Murugan Ashwin
+8,2,51,0,scored 1,Parthiv Patel,Virat Kohli,Murugan Ashwin
+8,3,52,0,scored 1,Virat Kohli,Parthiv Patel,Murugan Ashwin
+8,4,53,0,scored 1,Parthiv Patel,Virat Kohli,Murugan Ashwin
+8,5,54,0,scored 1,Virat Kohli,Parthiv Patel,Murugan Ashwin
+9,0,55,0,scored 1,Virat Kohli,Parthiv Patel,Ankit Rajpoot
+9,1,56,0,scored 1,Parthiv Patel,Virat Kohli,Ankit Rajpoot
+9,2,57,0,scored 1,Virat Kohli,Parthiv Patel,Ankit Rajpoot
+9,3,58,0,scored 1,Parthiv Patel,Virat Kohli,Ankit Rajpoot
+9,4,59,0,scored 1,Virat Kohli,Parthiv Patel,Ankit Rajpoot
+9,5,60,0,scored 1,Parthiv Patel,Virat Kohli,Ankit Rajpoot
+10,0,61,0,scored 1,Parthiv Patel,Virat Kohli,Ravichandran Ashwin
+10,1,62,0,scored 1,Virat Kohli,Parthiv Patel,Ravichandran Ashwin
+10,2,63,0,scored 1,Parthiv Patel,Virat Kohli,Ravichandran Ashwin
+10,3,64,0,scored 1,Virat Kohli,Parthiv Patel,Ravichandran Ashwin
+10,4,65,0,scored 1,Parthiv Patel,Virat Kohli,Ravichandran Ashwin
+10,5,66,0,scored 1,Virat Kohli,Parthiv Patel,Ravichandran Ashwin
+11,0,67,0,scored 1,Virat Kohli,Parthiv Patel,Mohammed Shami
+11,1,68,0,scored 1,Parthiv Patel,Virat Kohli,Mohammed Shami
+11,2,69,0,scored 1,Virat Kohli,Parthiv Patel,Mohammed Shami
+11,3,70,0,scored 1,Parthiv Patel,Virat Kohli,Mohammed Shami
+11,4,71,0,scored 1,Virat Kohli,Parthiv Patel,Mohammed Shami
+11,5,72,0,scored 1,Parthiv Patel,Virat Kohli,Mohammed Shami
+12,0,73,0,scored 1,Parthiv Patel,Virat Kohli,Hardus Viljoen
+12,1,74,0,scored 1,Virat Kohli,Parthiv Patel,Hardus Viljoen
+12,2,74,0,out,Parthiv Patel,Virat Kohli,Hardus Viljoen
+12,3,75,1,scored 1,AB de Villiers,Virat Kohli,Hardus Viljoen
+12,4,75,1,out,Virat Kohli,AB de Villiers,Hardus Viljoen
+12,5,76,2,scored 1,Moeen Ali,AB de Villiers,Hardus Viljoen
+13,0,77,2,scored 1,Moeen Ali,AB de Villiers,Murugan Ashwin
+13,1,78,2,scored 1,AB de Villiers,Moeen Ali,Murugan Ashwin
+13,2,79,2,scored 1,Moeen Ali,AB de Villiers,Murugan Ashwin
+13,3,80,2,scored 1,AB de Villiers,Moeen Ali,Murugan Ashwin
+13,4,81,2,scored 1,Moeen Ali,AB de Villiers,Murugan Ashwin
+13,5,82,2,scored 1,AB de Villiers,Moeen Ali,Murugan Ashwin
+14,0,83,2,scored 1,AB de Villiers,Moeen Ali,Ankit Rajpoot
+14,1,84,2,scored 1,Moeen Ali,AB de Villiers,Ankit Rajpoot
+14,2,85,2,scored 1,AB de Villiers,Moeen Ali,Ankit Rajpoot
+14,3,86,2,scored 1,Moeen Ali,AB de Villiers,Ankit Rajpoot
+14,4,87,2,scored 1,AB de Villiers,Moeen Ali,Ankit Rajpoot
+14,5,87,2,scored 0,Moeen Ali,AB de Villiers,Ankit Rajpoot
+15,0,88,2,scored 1,AB de Villiers,Moeen Ali,Ravichandran Ashwin
+15,1,89,2,scored 1,Moeen Ali,AB de Villiers,Ravichandran Ashwin
+15,2,90,2,scored 1,AB de Villiers,Moeen Ali,Ravichandran Ashwin
+15,3,91,2,scored 1,Moeen Ali,AB de Villiers,Ravichandran Ashwin
+15,4,92,2,scored 1,AB de Villiers,Moeen Ali,Ravichandran Ashwin
+15,5,93,2,scored 1,Moeen Ali,AB de Villiers,Ravichandran Ashwin
+16,0,93,2,scored 0,Moeen Ali,AB de Villiers,Mohammed Shami
+16,1,94,2,scored 1,Moeen Ali,AB de Villiers,Mohammed Shami
+16,2,95,2,scored 1,AB de Villiers,Moeen Ali,Mohammed Shami
+16,3,96,2,scored 1,Moeen Ali,AB de Villiers,Mohammed Shami
+16,4,97,2,scored 1,AB de Villiers,Moeen Ali,Mohammed Shami
+16,5,98,2,scored 1,Moeen Ali,AB de Villiers,Mohammed Shami
+17,0,99,2,scored 1,Moeen Ali,AB de Villiers,Hardus Viljoen
+17,1,100,2,scored 1,AB de Villiers,Moeen Ali,Hardus Viljoen
+17,2,101,2,scored 1,Moeen Ali,AB de Villiers,Hardus Viljoen
+17,3,102,2,scored 1,AB de Villiers,Moeen Ali,Hardus Viljoen
+17,4,103,2,scored 1,Moeen Ali,AB de Villiers,Hardus Viljoen
+17,5,104,2,scored 1,AB de Villiers,Moeen Ali,Hardus Viljoen
+18,0,105,2,scored 1,AB de Villiers,Moeen Ali,Murugan Ashwin
+18,1,106,2,scored 1,Moeen Ali,AB de Villiers,Murugan Ashwin
+18,2,107,2,scored 1,AB de Villiers,Moeen Ali,Murugan Ashwin
+18,3,108,2,scored 1,Moeen Ali,AB de Villiers,Murugan Ashwin
+18,4,109,2,scored 1,AB de Villiers,Moeen Ali,Murugan Ashwin
+18,5,110,2,scored 1,Moeen Ali,AB de Villiers,Murugan Ashwin
+19,0,111,2,scored 1,Moeen Ali,AB de Villiers,Ankit Rajpoot
+19,1,112,2,scored 1,AB de Villiers,Moeen Ali,Ankit Rajpoot
+19,2,112,2,scored 0,Moeen Ali,AB de Villiers,Ankit Rajpoot
+19,3,113,2,scored 1,Moeen Ali,AB de Villiers,Ankit Rajpoot
+19,4,114,2,scored 1,AB de Villiers,Moeen Ali,Ankit Rajpoot
+19,5,114,2,scored 0,Moeen Ali,AB de Villiers,Ankit Rajpoot
