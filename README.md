@@ -33,7 +33,7 @@ INTERNET CONNECTION REQUIRED
 | 23/04 | 41 | CSKvsSRH | CSK | CSK |
 | 24/04 | 42 | RCBvsKXIP | RCB | RCB |
 | 25/04 | 43 | KKRvsRR | KKR | RR |
-| 26/04 | 44 | CSKvsMI | - | - |
+| 26/04 | 44 | CSKvsMI | CSK | - |
 | 27/04 | 45 | RRvsSRH | - | - |
 | 28/04 | 46 | DCvsRCB | - | - |
 | 28/04 | 47 | KKRvsMI | - | - |
