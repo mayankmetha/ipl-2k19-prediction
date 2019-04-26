@@ -20,3 +20,22 @@
 ## NOTE
 
 INTERNET CONNECTION REQUIRED
+
+## RESULTS
+| Date | Match Number | Game | Predicted Result | Actual Result |
+|:---:|:---:|:---:|:---:|:---:|
+| 19/04 | 35 | KKRvsRCB | RCB | RCB |
+| 20/04 | 36 | RRvsMI | RR | RR |
+| 20/04 | 37 | DCvsKXIP | DC | DC |
+| 21/04 | 38 | SRHvsKKR | KKR | SRH |
+| 21/04 | 39 | RCBvsCSK | CSK | RCB |
+| 22/04 | 40 | RRvsDC | RR | DC |
+| 23/04 | 41 | CSKvsSRH | CSK | CSK |
+| 24/04 | 42 | RCBvsKXIP | RCB | RCB |
+| 25/04 | 43 | KKRvsRR | KKR | RR |
+| 26/04 | 44 | CSKvsMI | - | - |
+| 27/04 | 45 | RRvsSRH | - | - |
+| 28/04 | 46 | DCvsRCB | - | - |
+| 28/04 | 47 | KKRvsMI | - | - |
+| 29/04 | 48 | SRHvsKXIP | - | - |
+| 30/04 | 49 | RCBvsRR | - | - |
