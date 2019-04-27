@@ -1,0 +1,121 @@
+over,ball,runs,wickets,action,striker,non-striker,bowler
+0,0,1,0,scored 1,Ajinkya Rahane,Sanju Samson,Khaleel Ahmed
+0,1,2,0,scored 1,Sanju Samson,Ajinkya Rahane,Khaleel Ahmed
+0,2,3,0,scored 1,Ajinkya Rahane,Sanju Samson,Khaleel Ahmed
+0,3,4,0,scored 1,Sanju Samson,Ajinkya Rahane,Khaleel Ahmed
+0,4,5,0,scored 1,Ajinkya Rahane,Sanju Samson,Khaleel Ahmed
+0,5,6,0,scored 1,Sanju Samson,Ajinkya Rahane,Khaleel Ahmed
+1,0,7,0,scored 1,Sanju Samson,Ajinkya Rahane,Siddarth Kaul
+1,1,8,0,scored 1,Ajinkya Rahane,Sanju Samson,Siddarth Kaul
+1,2,9,0,scored 1,Sanju Samson,Ajinkya Rahane,Siddarth Kaul
+1,3,10,0,scored 1,Ajinkya Rahane,Sanju Samson,Siddarth Kaul
+1,4,11,0,scored 1,Sanju Samson,Ajinkya Rahane,Siddarth Kaul
+1,5,12,0,scored 1,Ajinkya Rahane,Sanju Samson,Siddarth Kaul
+2,0,13,0,scored 1,Ajinkya Rahane,Sanju Samson,Bhuvneshwar Kumar
+2,1,14,0,scored 1,Sanju Samson,Ajinkya Rahane,Bhuvneshwar Kumar
+2,2,15,0,scored 1,Ajinkya Rahane,Sanju Samson,Bhuvneshwar Kumar
+2,3,16,0,scored 1,Sanju Samson,Ajinkya Rahane,Bhuvneshwar Kumar
+2,4,17,0,scored 1,Ajinkya Rahane,Sanju Samson,Bhuvneshwar Kumar
+2,5,18,0,scored 1,Sanju Samson,Ajinkya Rahane,Bhuvneshwar Kumar
+3,0,19,0,scored 1,Sanju Samson,Ajinkya Rahane,Rashid Khan
+3,1,20,0,scored 1,Ajinkya Rahane,Sanju Samson,Rashid Khan
+3,2,21,0,scored 1,Sanju Samson,Ajinkya Rahane,Rashid Khan
+3,3,22,0,scored 1,Ajinkya Rahane,Sanju Samson,Rashid Khan
+3,4,23,0,scored 1,Sanju Samson,Ajinkya Rahane,Rashid Khan
+3,5,24,0,scored 1,Ajinkya Rahane,Sanju Samson,Rashid Khan
+4,0,25,0,scored 1,Ajinkya Rahane,Sanju Samson,Deepak Hooda
+4,1,26,0,scored 1,Sanju Samson,Ajinkya Rahane,Deepak Hooda
+4,2,27,0,scored 1,Ajinkya Rahane,Sanju Samson,Deepak Hooda
+4,3,27,0,scored 0,Sanju Samson,Ajinkya Rahane,Deepak Hooda
+4,4,28,0,scored 1,Sanju Samson,Ajinkya Rahane,Deepak Hooda
+4,5,29,0,scored 1,Ajinkya Rahane,Sanju Samson,Deepak Hooda
+5,0,30,0,scored 1,Ajinkya Rahane,Sanju Samson,Vijay Shankar
+5,1,31,0,scored 1,Sanju Samson,Ajinkya Rahane,Vijay Shankar
+5,2,32,0,scored 1,Ajinkya Rahane,Sanju Samson,Vijay Shankar
+5,3,32,0,scored 0,Sanju Samson,Ajinkya Rahane,Vijay Shankar
+5,4,33,0,scored 1,Sanju Samson,Ajinkya Rahane,Vijay Shankar
+5,5,34,0,scored 1,Ajinkya Rahane,Sanju Samson,Vijay Shankar
+6,0,35,0,scored 1,Ajinkya Rahane,Sanju Samson,Shakib Al Hasan
+6,1,36,0,scored 1,Sanju Samson,Ajinkya Rahane,Shakib Al Hasan
+6,2,37,0,scored 1,Ajinkya Rahane,Sanju Samson,Shakib Al Hasan
+6,3,38,0,scored 1,Sanju Samson,Ajinkya Rahane,Shakib Al Hasan
+6,4,39,0,scored 1,Ajinkya Rahane,Sanju Samson,Shakib Al Hasan
+6,5,40,0,scored 1,Sanju Samson,Ajinkya Rahane,Shakib Al Hasan
+7,0,41,0,scored 1,Sanju Samson,Ajinkya Rahane,Khaleel Ahmed
+7,1,42,0,scored 1,Ajinkya Rahane,Sanju Samson,Khaleel Ahmed
+7,2,43,0,scored 1,Sanju Samson,Ajinkya Rahane,Khaleel Ahmed
+7,3,44,0,scored 1,Ajinkya Rahane,Sanju Samson,Khaleel Ahmed
+7,4,45,0,scored 1,Sanju Samson,Ajinkya Rahane,Khaleel Ahmed
+7,5,46,0,scored 1,Ajinkya Rahane,Sanju Samson,Khaleel Ahmed
+8,0,47,0,scored 1,Ajinkya Rahane,Sanju Samson,Siddarth Kaul
+8,1,48,0,scored 1,Sanju Samson,Ajinkya Rahane,Siddarth Kaul
+8,2,49,0,scored 1,Ajinkya Rahane,Sanju Samson,Siddarth Kaul
+8,3,50,0,scored 1,Sanju Samson,Ajinkya Rahane,Siddarth Kaul
+8,4,51,0,scored 1,Ajinkya Rahane,Sanju Samson,Siddarth Kaul
+8,5,52,0,scored 1,Sanju Samson,Ajinkya Rahane,Siddarth Kaul
+9,0,53,0,scored 1,Sanju Samson,Ajinkya Rahane,Bhuvneshwar Kumar
+9,1,54,0,scored 1,Ajinkya Rahane,Sanju Samson,Bhuvneshwar Kumar
+9,2,55,0,scored 1,Sanju Samson,Ajinkya Rahane,Bhuvneshwar Kumar
+9,3,56,0,scored 1,Ajinkya Rahane,Sanju Samson,Bhuvneshwar Kumar
+9,4,57,0,scored 1,Sanju Samson,Ajinkya Rahane,Bhuvneshwar Kumar
+9,5,58,0,scored 1,Ajinkya Rahane,Sanju Samson,Bhuvneshwar Kumar
+10,0,59,0,scored 1,Ajinkya Rahane,Sanju Samson,Rashid Khan
+10,1,60,0,scored 1,Sanju Samson,Ajinkya Rahane,Rashid Khan
+10,2,61,0,scored 1,Ajinkya Rahane,Sanju Samson,Rashid Khan
+10,3,62,0,scored 1,Sanju Samson,Ajinkya Rahane,Rashid Khan
+10,4,63,0,scored 1,Ajinkya Rahane,Sanju Samson,Rashid Khan
+10,5,64,0,scored 1,Sanju Samson,Ajinkya Rahane,Rashid Khan
+11,0,64,0,scored 0,Sanju Samson,Ajinkya Rahane,Deepak Hooda
+11,1,64,0,out,Sanju Samson,Ajinkya Rahane,Deepak Hooda
+11,2,68,1,scored 4,Steve Smith,Ajinkya Rahane,Deepak Hooda
+11,3,68,1,scored 0,Steve Smith,Ajinkya Rahane,Deepak Hooda
+11,4,69,1,scored 1,Steve Smith,Ajinkya Rahane,Deepak Hooda
+11,5,70,1,scored 1,Ajinkya Rahane,Steve Smith,Deepak Hooda
+12,0,71,1,scored 1,Ajinkya Rahane,Steve Smith,Vijay Shankar
+12,1,72,1,scored 1,Steve Smith,Ajinkya Rahane,Vijay Shankar
+12,2,73,1,scored 1,Ajinkya Rahane,Steve Smith,Vijay Shankar
+12,3,73,1,scored 0,Steve Smith,Ajinkya Rahane,Vijay Shankar
+12,4,74,1,scored 1,Steve Smith,Ajinkya Rahane,Vijay Shankar
+12,5,75,1,scored 1,Ajinkya Rahane,Steve Smith,Vijay Shankar
+13,0,76,1,scored 1,Ajinkya Rahane,Steve Smith,Shakib Al Hasan
+13,1,77,1,scored 1,Steve Smith,Ajinkya Rahane,Shakib Al Hasan
+13,2,77,1,out,Ajinkya Rahane,Steve Smith,Shakib Al Hasan
+13,3,77,2,scored 0,Liam Livingstone,Steve Smith,Shakib Al Hasan
+13,4,77,2,scored 0,Liam Livingstone,Steve Smith,Shakib Al Hasan
+13,5,77,2,scored 0,Liam Livingstone,Steve Smith,Shakib Al Hasan
+14,0,78,2,scored 1,Steve Smith,Liam Livingstone,Khaleel Ahmed
+14,1,78,2,scored 0,Liam Livingstone,Steve Smith,Khaleel Ahmed
+14,2,78,2,scored 0,Liam Livingstone,Steve Smith,Khaleel Ahmed
+14,3,78,2,scored 0,Liam Livingstone,Steve Smith,Khaleel Ahmed
+14,4,78,2,scored 0,Liam Livingstone,Steve Smith,Khaleel Ahmed
+14,5,78,2,scored 0,Liam Livingstone,Steve Smith,Khaleel Ahmed
+15,0,79,2,scored 1,Steve Smith,Liam Livingstone,Siddarth Kaul
+15,1,79,2,scored 0,Liam Livingstone,Steve Smith,Siddarth Kaul
+15,2,79,2,scored 0,Liam Livingstone,Steve Smith,Siddarth Kaul
+15,3,79,2,scored 0,Liam Livingstone,Steve Smith,Siddarth Kaul
+15,4,79,2,scored 0,Liam Livingstone,Steve Smith,Siddarth Kaul
+15,5,79,2,scored 0,Liam Livingstone,Steve Smith,Siddarth Kaul
+16,0,80,2,scored 1,Steve Smith,Liam Livingstone,Bhuvneshwar Kumar
+16,1,80,2,scored 0,Liam Livingstone,Steve Smith,Bhuvneshwar Kumar
+16,2,80,2,scored 0,Liam Livingstone,Steve Smith,Bhuvneshwar Kumar
+16,3,80,2,scored 0,Liam Livingstone,Steve Smith,Bhuvneshwar Kumar
+16,4,80,2,scored 0,Liam Livingstone,Steve Smith,Bhuvneshwar Kumar
+16,5,80,2,scored 0,Liam Livingstone,Steve Smith,Bhuvneshwar Kumar
+17,0,81,2,scored 1,Steve Smith,Liam Livingstone,Rashid Khan
+17,1,81,2,scored 0,Liam Livingstone,Steve Smith,Rashid Khan
+17,2,81,2,scored 0,Liam Livingstone,Steve Smith,Rashid Khan
+17,3,81,2,scored 0,Liam Livingstone,Steve Smith,Rashid Khan
+17,4,81,2,scored 0,Liam Livingstone,Steve Smith,Rashid Khan
+17,5,81,2,scored 0,Liam Livingstone,Steve Smith,Rashid Khan
+18,0,81,2,scored 0,Steve Smith,Liam Livingstone,Deepak Hooda
+18,1,82,2,scored 1,Steve Smith,Liam Livingstone,Deepak Hooda
+18,2,82,2,out,Liam Livingstone,Steve Smith,Deepak Hooda
+18,3,86,3,scored 4,Ashton Turner,Steve Smith,Deepak Hooda
+18,4,86,3,scored 0,Ashton Turner,Steve Smith,Deepak Hooda
+18,5,88,3,scored 2,Ashton Turner,Steve Smith,Deepak Hooda
+19,0,88,3,scored 0,Steve Smith,Ashton Turner,Vijay Shankar
+19,1,89,3,scored 1,Steve Smith,Ashton Turner,Vijay Shankar
+19,2,89,3,scored 0,Ashton Turner,Steve Smith,Vijay Shankar
+19,3,92,3,scored 3,Ashton Turner,Steve Smith,Vijay Shankar
+19,4,93,3,scored 1,Steve Smith,Ashton Turner,Vijay Shankar
+19,5,95,3,scored 2,Ashton Turner,Steve Smith,Vijay Shankar
