@@ -1,0 +1,109 @@
+over,ball,runs,wickets,action,striker,non-striker,bowler
+0,0,1,0,scored 1,Parthiv Patel,Virat Kohli,Sandeep Lamichhane
+0,1,2,0,scored 1,Virat Kohli,Parthiv Patel,Sandeep Lamichhane
+0,2,3,0,scored 1,Parthiv Patel,Virat Kohli,Sandeep Lamichhane
+0,3,4,0,scored 1,Virat Kohli,Parthiv Patel,Sandeep Lamichhane
+0,4,5,0,scored 1,Parthiv Patel,Virat Kohli,Sandeep Lamichhane
+0,5,6,0,scored 1,Virat Kohli,Parthiv Patel,Sandeep Lamichhane
+1,0,7,0,scored 1,Virat Kohli,Parthiv Patel,Amit Mishra
+1,1,8,0,scored 1,Parthiv Patel,Virat Kohli,Amit Mishra
+1,2,9,0,scored 1,Virat Kohli,Parthiv Patel,Amit Mishra
+1,3,10,0,scored 1,Parthiv Patel,Virat Kohli,Amit Mishra
+1,4,11,0,scored 1,Virat Kohli,Parthiv Patel,Amit Mishra
+1,5,12,0,scored 1,Parthiv Patel,Virat Kohli,Amit Mishra
+2,0,13,0,scored 1,Parthiv Patel,Virat Kohli,Kagiso Rabada
+2,1,14,0,scored 1,Virat Kohli,Parthiv Patel,Kagiso Rabada
+2,2,15,0,scored 1,Parthiv Patel,Virat Kohli,Kagiso Rabada
+2,3,16,0,scored 1,Virat Kohli,Parthiv Patel,Kagiso Rabada
+2,4,17,0,scored 1,Parthiv Patel,Virat Kohli,Kagiso Rabada
+2,5,18,0,scored 1,Virat Kohli,Parthiv Patel,Kagiso Rabada
+3,0,19,0,scored 1,Virat Kohli,Parthiv Patel,Ishant Sharma
+3,1,20,0,scored 1,Parthiv Patel,Virat Kohli,Ishant Sharma
+3,2,21,0,scored 1,Virat Kohli,Parthiv Patel,Ishant Sharma
+3,3,22,0,scored 1,Parthiv Patel,Virat Kohli,Ishant Sharma
+3,4,23,0,scored 1,Virat Kohli,Parthiv Patel,Ishant Sharma
+3,5,24,0,scored 1,Parthiv Patel,Virat Kohli,Ishant Sharma
+4,0,25,0,scored 1,Parthiv Patel,Virat Kohli,Axar Patel
+4,1,26,0,scored 1,Virat Kohli,Parthiv Patel,Axar Patel
+4,2,27,0,scored 1,Parthiv Patel,Virat Kohli,Axar Patel
+4,3,28,0,scored 1,Virat Kohli,Parthiv Patel,Axar Patel
+4,4,29,0,scored 1,Parthiv Patel,Virat Kohli,Axar Patel
+4,5,30,0,scored 1,Virat Kohli,Parthiv Patel,Axar Patel
+5,0,30,0,scored 0,Virat Kohli,Parthiv Patel,Sherfane Rutherford
+5,1,35,0,scored 5,Virat Kohli,Parthiv Patel,Sherfane Rutherford
+5,2,36,0,scored 1,Parthiv Patel,Virat Kohli,Sherfane Rutherford
+5,3,41,0,scored 5,Virat Kohli,Parthiv Patel,Sherfane Rutherford
+5,4,47,0,scored 6,Parthiv Patel,Virat Kohli,Sherfane Rutherford
+5,5,50,0,scored 3,Parthiv Patel,Virat Kohli,Sherfane Rutherford
+6,0,51,0,scored 1,Parthiv Patel,Virat Kohli,Sandeep Lamichhane
+6,1,52,0,scored 1,Virat Kohli,Parthiv Patel,Sandeep Lamichhane
+6,2,53,0,scored 1,Parthiv Patel,Virat Kohli,Sandeep Lamichhane
+6,3,54,0,scored 1,Virat Kohli,Parthiv Patel,Sandeep Lamichhane
+6,4,55,0,scored 1,Parthiv Patel,Virat Kohli,Sandeep Lamichhane
+6,5,56,0,scored 1,Virat Kohli,Parthiv Patel,Sandeep Lamichhane
+7,0,57,0,scored 1,Virat Kohli,Parthiv Patel,Amit Mishra
+7,1,58,0,scored 1,Parthiv Patel,Virat Kohli,Amit Mishra
+7,2,59,0,scored 1,Virat Kohli,Parthiv Patel,Amit Mishra
+7,3,60,0,scored 1,Parthiv Patel,Virat Kohli,Amit Mishra
+7,4,61,0,scored 1,Virat Kohli,Parthiv Patel,Amit Mishra
+7,5,62,0,scored 1,Parthiv Patel,Virat Kohli,Amit Mishra
+8,0,63,0,scored 1,Parthiv Patel,Virat Kohli,Kagiso Rabada
+8,1,64,0,scored 1,Virat Kohli,Parthiv Patel,Kagiso Rabada
+8,2,64,0,out,Parthiv Patel,Virat Kohli,Kagiso Rabada
+8,3,65,1,scored 1,AB de Villiers,Virat Kohli,Kagiso Rabada
+8,4,66,1,scored 1,Virat Kohli,AB de Villiers,Kagiso Rabada
+8,5,67,1,scored 1,AB de Villiers,Virat Kohli,Kagiso Rabada
+9,0,68,1,scored 1,AB de Villiers,Virat Kohli,Ishant Sharma
+9,1,69,1,scored 1,Virat Kohli,AB de Villiers,Ishant Sharma
+9,2,70,1,scored 1,AB de Villiers,Virat Kohli,Ishant Sharma
+9,3,71,1,scored 1,Virat Kohli,AB de Villiers,Ishant Sharma
+9,4,72,1,scored 1,AB de Villiers,Virat Kohli,Ishant Sharma
+9,5,73,1,scored 1,Virat Kohli,AB de Villiers,Ishant Sharma
+10,0,74,1,scored 1,Virat Kohli,AB de Villiers,Axar Patel
+10,1,75,1,scored 1,AB de Villiers,Virat Kohli,Axar Patel
+10,2,76,1,scored 1,Virat Kohli,AB de Villiers,Axar Patel
+10,3,77,1,scored 1,AB de Villiers,Virat Kohli,Axar Patel
+10,4,78,1,scored 1,Virat Kohli,AB de Villiers,Axar Patel
+10,5,79,1,scored 1,AB de Villiers,Virat Kohli,Axar Patel
+11,0,84,1,scored 5,AB de Villiers,Virat Kohli,Sherfane Rutherford
+11,1,84,1,out,Virat Kohli,AB de Villiers,Sherfane Rutherford
+11,2,84,2,scored 0,Marcus Stoinis,AB de Villiers,Sherfane Rutherford
+11,3,88,2,scored 4,Marcus Stoinis,AB de Villiers,Sherfane Rutherford
+11,4,94,2,scored 6,Marcus Stoinis,AB de Villiers,Sherfane Rutherford
+11,5,100,2,scored 6,Marcus Stoinis,AB de Villiers,Sherfane Rutherford
+12,0,101,2,scored 1,AB de Villiers,Marcus Stoinis,Sandeep Lamichhane
+12,1,102,2,scored 1,Marcus Stoinis,AB de Villiers,Sandeep Lamichhane
+12,2,103,2,scored 1,AB de Villiers,Marcus Stoinis,Sandeep Lamichhane
+12,3,104,2,scored 1,Marcus Stoinis,AB de Villiers,Sandeep Lamichhane
+12,4,105,2,scored 1,AB de Villiers,Marcus Stoinis,Sandeep Lamichhane
+12,5,106,2,scored 1,Marcus Stoinis,AB de Villiers,Sandeep Lamichhane
+13,0,107,2,scored 1,Marcus Stoinis,AB de Villiers,Amit Mishra
+13,1,108,2,scored 1,AB de Villiers,Marcus Stoinis,Amit Mishra
+13,2,109,2,scored 1,Marcus Stoinis,AB de Villiers,Amit Mishra
+13,3,110,2,scored 1,AB de Villiers,Marcus Stoinis,Amit Mishra
+13,4,111,2,scored 1,Marcus Stoinis,AB de Villiers,Amit Mishra
+13,5,112,2,scored 1,AB de Villiers,Marcus Stoinis,Amit Mishra
+14,0,113,2,scored 1,AB de Villiers,Marcus Stoinis,Kagiso Rabada
+14,1,114,2,scored 1,Marcus Stoinis,AB de Villiers,Kagiso Rabada
+14,2,115,2,scored 1,AB de Villiers,Marcus Stoinis,Kagiso Rabada
+14,3,116,2,scored 1,Marcus Stoinis,AB de Villiers,Kagiso Rabada
+14,4,117,2,scored 1,AB de Villiers,Marcus Stoinis,Kagiso Rabada
+14,5,118,2,scored 1,Marcus Stoinis,AB de Villiers,Kagiso Rabada
+15,0,119,2,scored 1,Marcus Stoinis,AB de Villiers,Ishant Sharma
+15,1,120,2,scored 1,AB de Villiers,Marcus Stoinis,Ishant Sharma
+15,2,121,2,scored 1,Marcus Stoinis,AB de Villiers,Ishant Sharma
+15,3,122,2,scored 1,AB de Villiers,Marcus Stoinis,Ishant Sharma
+15,4,123,2,scored 1,Marcus Stoinis,AB de Villiers,Ishant Sharma
+15,5,124,2,scored 1,AB de Villiers,Marcus Stoinis,Ishant Sharma
+16,0,125,2,scored 1,AB de Villiers,Marcus Stoinis,Axar Patel
+16,1,126,2,scored 1,Marcus Stoinis,AB de Villiers,Axar Patel
+16,2,127,2,scored 1,AB de Villiers,Marcus Stoinis,Axar Patel
+16,3,128,2,scored 1,Marcus Stoinis,AB de Villiers,Axar Patel
+16,4,129,2,scored 1,AB de Villiers,Marcus Stoinis,Axar Patel
+16,5,130,2,scored 1,Marcus Stoinis,AB de Villiers,Axar Patel
+17,0,133,2,scored 3,Marcus Stoinis,AB de Villiers,Sherfane Rutherford
+17,1,138,2,scored 5,AB de Villiers,Marcus Stoinis,Sherfane Rutherford
+17,2,138,2,out,Marcus Stoinis,AB de Villiers,Sherfane Rutherford
+17,3,142,3,scored 4,Heinrich Klaasen,AB de Villiers,Sherfane Rutherford
+17,4,142,3,scored 0,Heinrich Klaasen,AB de Villiers,Sherfane Rutherford
+17,5,145,3,scored 3,Heinrich Klaasen,AB de Villiers,Sherfane Rutherford

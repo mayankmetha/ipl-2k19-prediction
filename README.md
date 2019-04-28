@@ -34,8 +34,8 @@ INTERNET CONNECTION REQUIRED
 | 24/04 | 42 | RCBvsKXIP | RCB | RCB |
 | 25/04 | 43 | KKRvsRR | KKR | RR |
 | 26/04 | 44 | CSKvsMI | CSK | MI |
-| 27/04 | 45 | RRvsSRH | RR | - |
-| 28/04 | 46 | DCvsRCB | - | - |
+| 27/04 | 45 | RRvsSRH | RR | RR |
+| 28/04 | 46 | DCvsRCB | RCB | - |
 | 28/04 | 47 | KKRvsMI | - | - |
 | 29/04 | 48 | SRHvsKXIP | - | - |
 | 30/04 | 49 | RCBvsRR | - | - |

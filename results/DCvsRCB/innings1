@@ -1,0 +1,121 @@
+over,ball,runs,wickets,action,striker,non-striker,bowler
+0,0,1,0,scored 1,Prithvi Shaw,Shikhar Dhawan,Yuzvendra Chahal
+0,1,2,0,scored 1,Shikhar Dhawan,Prithvi Shaw,Yuzvendra Chahal
+0,2,3,0,scored 1,Prithvi Shaw,Shikhar Dhawan,Yuzvendra Chahal
+0,3,4,0,scored 1,Shikhar Dhawan,Prithvi Shaw,Yuzvendra Chahal
+0,4,5,0,scored 1,Prithvi Shaw,Shikhar Dhawan,Yuzvendra Chahal
+0,5,6,0,scored 1,Shikhar Dhawan,Prithvi Shaw,Yuzvendra Chahal
+1,0,7,0,scored 1,Shikhar Dhawan,Prithvi Shaw,Navdeep Saini
+1,1,8,0,scored 1,Prithvi Shaw,Shikhar Dhawan,Navdeep Saini
+1,2,9,0,scored 1,Shikhar Dhawan,Prithvi Shaw,Navdeep Saini
+1,3,10,0,scored 1,Prithvi Shaw,Shikhar Dhawan,Navdeep Saini
+1,4,11,0,scored 1,Shikhar Dhawan,Prithvi Shaw,Navdeep Saini
+1,5,12,0,scored 1,Prithvi Shaw,Shikhar Dhawan,Navdeep Saini
+2,0,13,0,scored 1,Prithvi Shaw,Shikhar Dhawan,Umesh Yadav
+2,1,14,0,scored 1,Shikhar Dhawan,Prithvi Shaw,Umesh Yadav
+2,2,15,0,scored 1,Prithvi Shaw,Shikhar Dhawan,Umesh Yadav
+2,3,16,0,scored 1,Shikhar Dhawan,Prithvi Shaw,Umesh Yadav
+2,4,17,0,scored 1,Prithvi Shaw,Shikhar Dhawan,Umesh Yadav
+2,5,18,0,scored 1,Shikhar Dhawan,Prithvi Shaw,Umesh Yadav
+3,0,19,0,scored 1,Shikhar Dhawan,Prithvi Shaw,Washington Sundar
+3,1,20,0,scored 1,Prithvi Shaw,Shikhar Dhawan,Washington Sundar
+3,2,21,0,scored 1,Shikhar Dhawan,Prithvi Shaw,Washington Sundar
+3,3,22,0,scored 1,Prithvi Shaw,Shikhar Dhawan,Washington Sundar
+3,4,23,0,scored 1,Shikhar Dhawan,Prithvi Shaw,Washington Sundar
+3,5,24,0,scored 1,Prithvi Shaw,Shikhar Dhawan,Washington Sundar
+4,0,29,0,scored 5,Prithvi Shaw,Shikhar Dhawan,Shivam Dube
+4,1,30,0,scored 1,Shikhar Dhawan,Prithvi Shaw,Shivam Dube
+4,2,32,0,scored 2,Prithvi Shaw,Shikhar Dhawan,Shivam Dube
+4,3,36,0,scored 4,Prithvi Shaw,Shikhar Dhawan,Shivam Dube
+4,4,42,0,scored 6,Prithvi Shaw,Shikhar Dhawan,Shivam Dube
+4,5,48,0,scored 6,Prithvi Shaw,Shikhar Dhawan,Shivam Dube
+5,0,49,0,scored 1,Shikhar Dhawan,Prithvi Shaw,Marcus Stoinis
+5,1,50,0,scored 1,Prithvi Shaw,Shikhar Dhawan,Marcus Stoinis
+5,2,51,0,scored 1,Shikhar Dhawan,Prithvi Shaw,Marcus Stoinis
+5,3,52,0,scored 1,Prithvi Shaw,Shikhar Dhawan,Marcus Stoinis
+5,4,53,0,scored 1,Shikhar Dhawan,Prithvi Shaw,Marcus Stoinis
+5,5,54,0,scored 1,Prithvi Shaw,Shikhar Dhawan,Marcus Stoinis
+6,0,54,0,out,Prithvi Shaw,Shikhar Dhawan,Gurkeerat Mann Singh
+6,1,55,1,scored 1,Shreyas Iyer,Shikhar Dhawan,Gurkeerat Mann Singh
+6,2,56,1,scored 1,Shikhar Dhawan,Shreyas Iyer,Gurkeerat Mann Singh
+6,3,57,1,scored 1,Shreyas Iyer,Shikhar Dhawan,Gurkeerat Mann Singh
+6,4,58,1,scored 1,Shikhar Dhawan,Shreyas Iyer,Gurkeerat Mann Singh
+6,5,59,1,scored 1,Shreyas Iyer,Shikhar Dhawan,Gurkeerat Mann Singh
+7,0,60,1,scored 1,Shreyas Iyer,Shikhar Dhawan,Yuzvendra Chahal
+7,1,61,1,scored 1,Shikhar Dhawan,Shreyas Iyer,Yuzvendra Chahal
+7,2,62,1,scored 1,Shreyas Iyer,Shikhar Dhawan,Yuzvendra Chahal
+7,3,63,1,scored 1,Shikhar Dhawan,Shreyas Iyer,Yuzvendra Chahal
+7,4,63,1,scored 0,Shreyas Iyer,Shikhar Dhawan,Yuzvendra Chahal
+7,5,64,1,scored 1,Shreyas Iyer,Shikhar Dhawan,Yuzvendra Chahal
+8,0,65,1,scored 1,Shreyas Iyer,Shikhar Dhawan,Navdeep Saini
+8,1,66,1,scored 1,Shikhar Dhawan,Shreyas Iyer,Navdeep Saini
+8,2,67,1,scored 1,Shreyas Iyer,Shikhar Dhawan,Navdeep Saini
+8,3,68,1,scored 1,Shikhar Dhawan,Shreyas Iyer,Navdeep Saini
+8,4,69,1,scored 1,Shreyas Iyer,Shikhar Dhawan,Navdeep Saini
+8,5,70,1,scored 1,Shikhar Dhawan,Shreyas Iyer,Navdeep Saini
+9,0,71,1,scored 1,Shikhar Dhawan,Shreyas Iyer,Umesh Yadav
+9,1,72,1,scored 1,Shreyas Iyer,Shikhar Dhawan,Umesh Yadav
+9,2,73,1,scored 1,Shikhar Dhawan,Shreyas Iyer,Umesh Yadav
+9,3,74,1,scored 1,Shreyas Iyer,Shikhar Dhawan,Umesh Yadav
+9,4,75,1,scored 1,Shikhar Dhawan,Shreyas Iyer,Umesh Yadav
+9,5,75,1,scored 0,Shreyas Iyer,Shikhar Dhawan,Umesh Yadav
+10,0,76,1,scored 1,Shikhar Dhawan,Shreyas Iyer,Washington Sundar
+10,1,77,1,scored 1,Shreyas Iyer,Shikhar Dhawan,Washington Sundar
+10,2,78,1,scored 1,Shikhar Dhawan,Shreyas Iyer,Washington Sundar
+10,3,79,1,scored 1,Shreyas Iyer,Shikhar Dhawan,Washington Sundar
+10,4,80,1,scored 1,Shikhar Dhawan,Shreyas Iyer,Washington Sundar
+10,5,80,1,scored 0,Shreyas Iyer,Shikhar Dhawan,Washington Sundar
+11,0,80,1,scored 0,Shikhar Dhawan,Shreyas Iyer,Shivam Dube
+11,1,86,1,scored 6,Shikhar Dhawan,Shreyas Iyer,Shivam Dube
+11,2,86,1,out,Shikhar Dhawan,Shreyas Iyer,Shivam Dube
+11,3,90,2,scored 4,Rishabh Pant,Shreyas Iyer,Shivam Dube
+11,4,90,2,scored 0,Rishabh Pant,Shreyas Iyer,Shivam Dube
+11,5,92,2,scored 2,Rishabh Pant,Shreyas Iyer,Shivam Dube
+12,0,93,2,scored 1,Shreyas Iyer,Rishabh Pant,Marcus Stoinis
+12,1,94,2,scored 1,Rishabh Pant,Shreyas Iyer,Marcus Stoinis
+12,2,95,2,scored 1,Shreyas Iyer,Rishabh Pant,Marcus Stoinis
+12,3,96,2,scored 1,Rishabh Pant,Shreyas Iyer,Marcus Stoinis
+12,4,97,2,scored 1,Shreyas Iyer,Rishabh Pant,Marcus Stoinis
+12,5,98,2,scored 1,Rishabh Pant,Shreyas Iyer,Marcus Stoinis
+13,0,99,2,scored 1,Rishabh Pant,Shreyas Iyer,Gurkeerat Mann Singh
+13,1,100,2,scored 1,Shreyas Iyer,Rishabh Pant,Gurkeerat Mann Singh
+13,2,101,2,scored 1,Rishabh Pant,Shreyas Iyer,Gurkeerat Mann Singh
+13,3,102,2,scored 1,Shreyas Iyer,Rishabh Pant,Gurkeerat Mann Singh
+13,4,103,2,scored 1,Rishabh Pant,Shreyas Iyer,Gurkeerat Mann Singh
+13,5,104,2,scored 1,Shreyas Iyer,Rishabh Pant,Gurkeerat Mann Singh
+14,0,105,2,scored 1,Shreyas Iyer,Rishabh Pant,Yuzvendra Chahal
+14,1,106,2,scored 1,Rishabh Pant,Shreyas Iyer,Yuzvendra Chahal
+14,2,107,2,scored 1,Shreyas Iyer,Rishabh Pant,Yuzvendra Chahal
+14,3,108,2,scored 1,Rishabh Pant,Shreyas Iyer,Yuzvendra Chahal
+14,4,108,2,scored 0,Shreyas Iyer,Rishabh Pant,Yuzvendra Chahal
+14,5,109,2,scored 1,Shreyas Iyer,Rishabh Pant,Yuzvendra Chahal
+15,0,110,2,scored 1,Shreyas Iyer,Rishabh Pant,Navdeep Saini
+15,1,111,2,scored 1,Rishabh Pant,Shreyas Iyer,Navdeep Saini
+15,2,112,2,scored 1,Shreyas Iyer,Rishabh Pant,Navdeep Saini
+15,3,113,2,scored 1,Rishabh Pant,Shreyas Iyer,Navdeep Saini
+15,4,114,2,scored 1,Shreyas Iyer,Rishabh Pant,Navdeep Saini
+15,5,115,2,scored 1,Rishabh Pant,Shreyas Iyer,Navdeep Saini
+16,0,116,2,scored 1,Rishabh Pant,Shreyas Iyer,Umesh Yadav
+16,1,117,2,scored 1,Shreyas Iyer,Rishabh Pant,Umesh Yadav
+16,2,118,2,scored 1,Rishabh Pant,Shreyas Iyer,Umesh Yadav
+16,3,119,2,scored 1,Shreyas Iyer,Rishabh Pant,Umesh Yadav
+16,4,120,2,scored 1,Rishabh Pant,Shreyas Iyer,Umesh Yadav
+16,5,120,2,scored 0,Shreyas Iyer,Rishabh Pant,Umesh Yadav
+17,0,121,2,scored 1,Rishabh Pant,Shreyas Iyer,Washington Sundar
+17,1,122,2,scored 1,Shreyas Iyer,Rishabh Pant,Washington Sundar
+17,2,123,2,scored 1,Rishabh Pant,Shreyas Iyer,Washington Sundar
+17,3,123,2,out,Shreyas Iyer,Rishabh Pant,Washington Sundar
+17,4,124,3,scored 1,Colin Ingram,Rishabh Pant,Washington Sundar
+17,5,125,3,scored 1,Rishabh Pant,Colin Ingram,Washington Sundar
+18,0,125,3,scored 0,Rishabh Pant,Colin Ingram,Shivam Dube
+18,1,125,3,out,Rishabh Pant,Colin Ingram,Shivam Dube
+18,2,125,4,scored 0,Sherfane Rutherford,Colin Ingram,Shivam Dube
+18,3,129,4,scored 4,Sherfane Rutherford,Colin Ingram,Shivam Dube
+18,4,132,4,scored 3,Sherfane Rutherford,Colin Ingram,Shivam Dube
+18,5,136,4,scored 4,Colin Ingram,Sherfane Rutherford,Shivam Dube
+19,0,137,4,scored 1,Sherfane Rutherford,Colin Ingram,Marcus Stoinis
+19,1,138,4,scored 1,Colin Ingram,Sherfane Rutherford,Marcus Stoinis
+19,2,139,4,scored 1,Sherfane Rutherford,Colin Ingram,Marcus Stoinis
+19,3,140,4,scored 1,Colin Ingram,Sherfane Rutherford,Marcus Stoinis
+19,4,141,4,scored 1,Sherfane Rutherford,Colin Ingram,Marcus Stoinis
+19,5,142,4,scored 1,Colin Ingram,Sherfane Rutherford,Marcus Stoinis
