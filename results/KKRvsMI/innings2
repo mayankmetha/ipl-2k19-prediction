@@ -1,0 +1,88 @@
+over,ball,runs,wickets,action,striker,non-striker,bowler
+0,0,1,0,scored 1,Rohit Sharma,Quinton de Kock,Piyush Chawla
+0,1,2,0,scored 1,Quinton de Kock,Rohit Sharma,Piyush Chawla
+0,2,3,0,scored 1,Rohit Sharma,Quinton de Kock,Piyush Chawla
+0,3,4,0,scored 1,Quinton de Kock,Rohit Sharma,Piyush Chawla
+0,4,5,0,scored 1,Rohit Sharma,Quinton de Kock,Piyush Chawla
+0,5,6,0,scored 1,Quinton de Kock,Rohit Sharma,Piyush Chawla
+1,0,7,0,scored 1,Quinton de Kock,Rohit Sharma,Harry Gurney
+1,1,8,0,scored 1,Rohit Sharma,Quinton de Kock,Harry Gurney
+1,2,9,0,scored 1,Quinton de Kock,Rohit Sharma,Harry Gurney
+1,3,10,0,scored 1,Rohit Sharma,Quinton de Kock,Harry Gurney
+1,4,11,0,scored 1,Quinton de Kock,Rohit Sharma,Harry Gurney
+1,5,12,0,scored 1,Rohit Sharma,Quinton de Kock,Harry Gurney
+2,0,13,0,scored 1,Rohit Sharma,Quinton de Kock,Sunil Narine
+2,1,14,0,scored 1,Quinton de Kock,Rohit Sharma,Sunil Narine
+2,2,15,0,scored 1,Rohit Sharma,Quinton de Kock,Sunil Narine
+2,3,16,0,scored 1,Quinton de Kock,Rohit Sharma,Sunil Narine
+2,4,17,0,scored 1,Rohit Sharma,Quinton de Kock,Sunil Narine
+2,5,18,0,scored 1,Quinton de Kock,Rohit Sharma,Sunil Narine
+3,0,19,0,scored 1,Quinton de Kock,Rohit Sharma,Andre Russell
+3,1,20,0,scored 1,Rohit Sharma,Quinton de Kock,Andre Russell
+3,2,21,0,scored 1,Quinton de Kock,Rohit Sharma,Andre Russell
+3,3,22,0,scored 1,Rohit Sharma,Quinton de Kock,Andre Russell
+3,4,23,0,scored 1,Quinton de Kock,Rohit Sharma,Andre Russell
+3,5,24,0,scored 1,Rohit Sharma,Quinton de Kock,Andre Russell
+4,0,24,0,scored 0,Rohit Sharma,Quinton de Kock,Sandeep Warrier
+4,1,27,0,scored 3,Rohit Sharma,Quinton de Kock,Sandeep Warrier
+4,2,30,0,scored 3,Quinton de Kock,Rohit Sharma,Sandeep Warrier
+4,3,36,0,scored 6,Rohit Sharma,Quinton de Kock,Sandeep Warrier
+4,4,36,0,scored 0,Rohit Sharma,Quinton de Kock,Sandeep Warrier
+4,5,42,0,scored 6,Rohit Sharma,Quinton de Kock,Sandeep Warrier
+5,0,43,0,scored 1,Quinton de Kock,Rohit Sharma,Piyush Chawla
+5,1,44,0,scored 1,Rohit Sharma,Quinton de Kock,Piyush Chawla
+5,2,45,0,scored 1,Quinton de Kock,Rohit Sharma,Piyush Chawla
+5,3,46,0,scored 1,Rohit Sharma,Quinton de Kock,Piyush Chawla
+5,4,47,0,scored 1,Quinton de Kock,Rohit Sharma,Piyush Chawla
+5,5,48,0,scored 1,Rohit Sharma,Quinton de Kock,Piyush Chawla
+6,0,49,0,scored 1,Rohit Sharma,Quinton de Kock,Harry Gurney
+6,1,50,0,scored 1,Quinton de Kock,Rohit Sharma,Harry Gurney
+6,2,51,0,scored 1,Rohit Sharma,Quinton de Kock,Harry Gurney
+6,3,52,0,scored 1,Quinton de Kock,Rohit Sharma,Harry Gurney
+6,4,53,0,scored 1,Rohit Sharma,Quinton de Kock,Harry Gurney
+6,5,54,0,scored 1,Quinton de Kock,Rohit Sharma,Harry Gurney
+7,0,55,0,scored 1,Quinton de Kock,Rohit Sharma,Sunil Narine
+7,1,56,0,scored 1,Rohit Sharma,Quinton de Kock,Sunil Narine
+7,2,57,0,scored 1,Quinton de Kock,Rohit Sharma,Sunil Narine
+7,3,58,0,scored 1,Rohit Sharma,Quinton de Kock,Sunil Narine
+7,4,59,0,scored 1,Quinton de Kock,Rohit Sharma,Sunil Narine
+7,5,59,0,out,Rohit Sharma,Quinton de Kock,Sunil Narine
+8,0,60,1,scored 1,Quinton de Kock,Evin Lewis,Andre Russell
+8,1,61,1,scored 1,Evin Lewis,Quinton de Kock,Andre Russell
+8,2,62,1,scored 1,Quinton de Kock,Evin Lewis,Andre Russell
+8,3,63,1,scored 1,Evin Lewis,Quinton de Kock,Andre Russell
+8,4,64,1,scored 1,Quinton de Kock,Evin Lewis,Andre Russell
+8,5,65,1,scored 1,Evin Lewis,Quinton de Kock,Andre Russell
+9,0,65,1,scored 0,Evin Lewis,Quinton de Kock,Sandeep Warrier
+9,1,69,1,scored 4,Evin Lewis,Quinton de Kock,Sandeep Warrier
+9,2,75,1,scored 6,Evin Lewis,Quinton de Kock,Sandeep Warrier
+9,3,79,1,scored 4,Evin Lewis,Quinton de Kock,Sandeep Warrier
+9,4,85,1,scored 6,Evin Lewis,Quinton de Kock,Sandeep Warrier
+9,5,86,1,scored 1,Evin Lewis,Quinton de Kock,Sandeep Warrier
+10,0,87,1,scored 1,Evin Lewis,Quinton de Kock,Piyush Chawla
+10,1,88,1,scored 1,Quinton de Kock,Evin Lewis,Piyush Chawla
+10,2,89,1,scored 1,Evin Lewis,Quinton de Kock,Piyush Chawla
+10,3,90,1,scored 1,Quinton de Kock,Evin Lewis,Piyush Chawla
+10,4,91,1,scored 1,Evin Lewis,Quinton de Kock,Piyush Chawla
+10,5,92,1,scored 1,Quinton de Kock,Evin Lewis,Piyush Chawla
+11,0,93,1,scored 1,Quinton de Kock,Evin Lewis,Harry Gurney
+11,1,94,1,scored 1,Evin Lewis,Quinton de Kock,Harry Gurney
+11,2,94,1,out,Quinton de Kock,Evin Lewis,Harry Gurney
+11,3,95,2,scored 1,Suryakumar Yadav,Evin Lewis,Harry Gurney
+11,4,96,2,scored 1,Evin Lewis,Suryakumar Yadav,Harry Gurney
+11,5,96,2,scored 0,Suryakumar Yadav,Evin Lewis,Harry Gurney
+12,0,97,2,scored 1,Evin Lewis,Suryakumar Yadav,Sunil Narine
+12,1,98,2,scored 1,Suryakumar Yadav,Evin Lewis,Sunil Narine
+12,2,99,2,scored 1,Evin Lewis,Suryakumar Yadav,Sunil Narine
+12,3,100,2,scored 1,Suryakumar Yadav,Evin Lewis,Sunil Narine
+12,4,101,2,scored 1,Evin Lewis,Suryakumar Yadav,Sunil Narine
+12,5,102,2,scored 1,Suryakumar Yadav,Evin Lewis,Sunil Narine
+13,0,103,2,scored 1,Suryakumar Yadav,Evin Lewis,Andre Russell
+13,1,104,2,scored 1,Evin Lewis,Suryakumar Yadav,Andre Russell
+13,2,105,2,scored 1,Suryakumar Yadav,Evin Lewis,Andre Russell
+13,3,105,2,out,Evin Lewis,Suryakumar Yadav,Andre Russell
+13,4,106,3,scored 1,Krunal Pandya,Suryakumar Yadav,Andre Russell
+13,5,106,3,scored 0,Suryakumar Yadav,Krunal Pandya,Andre Russell
+14,0,112,3,scored 6,Krunal Pandya,Suryakumar Yadav,Sandeep Warrier
+14,1,116,3,scored 4,Krunal Pandya,Suryakumar Yadav,Sandeep Warrier
+14,2,120,3,scored 4,Krunal Pandya,Suryakumar Yadav,Sandeep Warrier
