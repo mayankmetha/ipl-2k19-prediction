@@ -1,0 +1,121 @@
+over,ball,runs,wickets,action,striker,non-striker,bowler
+0,0,1,0,scored 1,Parthiv Patel,Virat Kohli,Varun Aaron
+0,1,2,0,scored 1,Virat Kohli,Parthiv Patel,Varun Aaron
+0,2,3,0,scored 1,Parthiv Patel,Virat Kohli,Varun Aaron
+0,3,4,0,scored 1,Virat Kohli,Parthiv Patel,Varun Aaron
+0,4,5,0,scored 1,Parthiv Patel,Virat Kohli,Varun Aaron
+0,5,6,0,scored 1,Virat Kohli,Parthiv Patel,Varun Aaron
+1,0,7,0,scored 1,Virat Kohli,Parthiv Patel,Stuart Binny
+1,1,8,0,scored 1,Parthiv Patel,Virat Kohli,Stuart Binny
+1,2,9,0,scored 1,Virat Kohli,Parthiv Patel,Stuart Binny
+1,3,10,0,scored 1,Parthiv Patel,Virat Kohli,Stuart Binny
+1,4,11,0,scored 1,Virat Kohli,Parthiv Patel,Stuart Binny
+1,5,12,0,scored 1,Parthiv Patel,Virat Kohli,Stuart Binny
+2,0,13,0,scored 1,Parthiv Patel,Virat Kohli,Shreyas Gopal
+2,1,14,0,scored 1,Virat Kohli,Parthiv Patel,Shreyas Gopal
+2,2,15,0,scored 1,Parthiv Patel,Virat Kohli,Shreyas Gopal
+2,3,16,0,scored 1,Virat Kohli,Parthiv Patel,Shreyas Gopal
+2,4,17,0,scored 1,Parthiv Patel,Virat Kohli,Shreyas Gopal
+2,5,18,0,scored 1,Virat Kohli,Parthiv Patel,Shreyas Gopal
+3,0,19,0,scored 1,Virat Kohli,Parthiv Patel,Jaydev Unadkat
+3,1,20,0,scored 1,Parthiv Patel,Virat Kohli,Jaydev Unadkat
+3,2,21,0,scored 1,Virat Kohli,Parthiv Patel,Jaydev Unadkat
+3,3,22,0,scored 1,Parthiv Patel,Virat Kohli,Jaydev Unadkat
+3,4,23,0,scored 1,Virat Kohli,Parthiv Patel,Jaydev Unadkat
+3,5,24,0,scored 1,Parthiv Patel,Virat Kohli,Jaydev Unadkat
+4,0,25,0,scored 1,Parthiv Patel,Virat Kohli,Oshane Thomas
+4,1,26,0,scored 1,Virat Kohli,Parthiv Patel,Oshane Thomas
+4,2,27,0,scored 1,Parthiv Patel,Virat Kohli,Oshane Thomas
+4,3,28,0,scored 1,Virat Kohli,Parthiv Patel,Oshane Thomas
+4,4,29,0,scored 1,Parthiv Patel,Virat Kohli,Oshane Thomas
+4,5,30,0,scored 1,Virat Kohli,Parthiv Patel,Oshane Thomas
+5,0,30,0,scored 0,Virat Kohli,Parthiv Patel,Mahipal Lomror
+5,1,35,0,scored 5,Virat Kohli,Parthiv Patel,Mahipal Lomror
+5,2,37,0,scored 2,Parthiv Patel,Virat Kohli,Mahipal Lomror
+5,3,40,0,scored 3,Parthiv Patel,Virat Kohli,Mahipal Lomror
+5,4,46,0,scored 6,Virat Kohli,Parthiv Patel,Mahipal Lomror
+5,5,52,0,scored 6,Virat Kohli,Parthiv Patel,Mahipal Lomror
+6,0,53,0,scored 1,Parthiv Patel,Virat Kohli,Varun Aaron
+6,1,54,0,scored 1,Virat Kohli,Parthiv Patel,Varun Aaron
+6,2,55,0,scored 1,Parthiv Patel,Virat Kohli,Varun Aaron
+6,3,56,0,scored 1,Virat Kohli,Parthiv Patel,Varun Aaron
+6,4,57,0,scored 1,Parthiv Patel,Virat Kohli,Varun Aaron
+6,5,58,0,scored 1,Virat Kohli,Parthiv Patel,Varun Aaron
+7,0,59,0,scored 1,Virat Kohli,Parthiv Patel,Stuart Binny
+7,1,60,0,scored 1,Parthiv Patel,Virat Kohli,Stuart Binny
+7,2,61,0,scored 1,Virat Kohli,Parthiv Patel,Stuart Binny
+7,3,62,0,scored 1,Parthiv Patel,Virat Kohli,Stuart Binny
+7,4,63,0,scored 1,Virat Kohli,Parthiv Patel,Stuart Binny
+7,5,64,0,scored 1,Parthiv Patel,Virat Kohli,Stuart Binny
+8,0,65,0,scored 1,Parthiv Patel,Virat Kohli,Shreyas Gopal
+8,1,66,0,scored 1,Virat Kohli,Parthiv Patel,Shreyas Gopal
+8,2,67,0,scored 1,Parthiv Patel,Virat Kohli,Shreyas Gopal
+8,3,68,0,scored 1,Virat Kohli,Parthiv Patel,Shreyas Gopal
+8,4,69,0,scored 1,Parthiv Patel,Virat Kohli,Shreyas Gopal
+8,5,70,0,scored 1,Virat Kohli,Parthiv Patel,Shreyas Gopal
+9,0,71,0,scored 1,Virat Kohli,Parthiv Patel,Jaydev Unadkat
+9,1,72,0,scored 1,Parthiv Patel,Virat Kohli,Jaydev Unadkat
+9,2,73,0,scored 1,Virat Kohli,Parthiv Patel,Jaydev Unadkat
+9,3,74,0,scored 1,Parthiv Patel,Virat Kohli,Jaydev Unadkat
+9,4,74,0,out,Virat Kohli,Parthiv Patel,Jaydev Unadkat
+9,5,75,1,scored 1,Heinrich Klaasen,Parthiv Patel,Jaydev Unadkat
+10,0,76,1,scored 1,Heinrich Klaasen,Parthiv Patel,Oshane Thomas
+10,1,77,1,scored 1,Parthiv Patel,Heinrich Klaasen,Oshane Thomas
+10,2,78,1,scored 1,Heinrich Klaasen,Parthiv Patel,Oshane Thomas
+10,3,79,1,scored 1,Parthiv Patel,Heinrich Klaasen,Oshane Thomas
+10,4,79,1,scored 0,Heinrich Klaasen,Parthiv Patel,Oshane Thomas
+10,5,80,1,scored 1,Heinrich Klaasen,Parthiv Patel,Oshane Thomas
+11,0,83,1,scored 3,Heinrich Klaasen,Parthiv Patel,Mahipal Lomror
+11,1,86,1,scored 3,Parthiv Patel,Heinrich Klaasen,Mahipal Lomror
+11,2,86,1,scored 0,Heinrich Klaasen,Parthiv Patel,Mahipal Lomror
+11,3,90,1,scored 4,Heinrich Klaasen,Parthiv Patel,Mahipal Lomror
+11,4,92,1,scored 2,Heinrich Klaasen,Parthiv Patel,Mahipal Lomror
+11,5,93,1,scored 1,Heinrich Klaasen,Parthiv Patel,Mahipal Lomror
+12,0,94,1,scored 1,Heinrich Klaasen,Parthiv Patel,Varun Aaron
+12,1,95,1,scored 1,Parthiv Patel,Heinrich Klaasen,Varun Aaron
+12,2,96,1,scored 1,Heinrich Klaasen,Parthiv Patel,Varun Aaron
+12,3,97,1,scored 1,Parthiv Patel,Heinrich Klaasen,Varun Aaron
+12,4,98,1,scored 1,Heinrich Klaasen,Parthiv Patel,Varun Aaron
+12,5,98,1,out,Parthiv Patel,Heinrich Klaasen,Varun Aaron
+13,0,99,2,scored 1,Heinrich Klaasen,Gurkeerat Mann Singh,Stuart Binny
+13,1,100,2,scored 1,Gurkeerat Mann Singh,Heinrich Klaasen,Stuart Binny
+13,2,101,2,scored 1,Heinrich Klaasen,Gurkeerat Mann Singh,Stuart Binny
+13,3,102,2,scored 1,Gurkeerat Mann Singh,Heinrich Klaasen,Stuart Binny
+13,4,103,2,scored 1,Heinrich Klaasen,Gurkeerat Mann Singh,Stuart Binny
+13,5,104,2,scored 1,Gurkeerat Mann Singh,Heinrich Klaasen,Stuart Binny
+14,0,105,2,scored 1,Gurkeerat Mann Singh,Heinrich Klaasen,Shreyas Gopal
+14,1,106,2,scored 1,Heinrich Klaasen,Gurkeerat Mann Singh,Shreyas Gopal
+14,2,107,2,scored 1,Gurkeerat Mann Singh,Heinrich Klaasen,Shreyas Gopal
+14,3,108,2,scored 1,Heinrich Klaasen,Gurkeerat Mann Singh,Shreyas Gopal
+14,4,108,2,scored 0,Gurkeerat Mann Singh,Heinrich Klaasen,Shreyas Gopal
+14,5,109,2,scored 1,Gurkeerat Mann Singh,Heinrich Klaasen,Shreyas Gopal
+15,0,110,2,scored 1,Gurkeerat Mann Singh,Heinrich Klaasen,Jaydev Unadkat
+15,1,111,2,scored 1,Heinrich Klaasen,Gurkeerat Mann Singh,Jaydev Unadkat
+15,2,112,2,scored 1,Gurkeerat Mann Singh,Heinrich Klaasen,Jaydev Unadkat
+15,3,113,2,scored 1,Heinrich Klaasen,Gurkeerat Mann Singh,Jaydev Unadkat
+15,4,114,2,scored 1,Gurkeerat Mann Singh,Heinrich Klaasen,Jaydev Unadkat
+15,5,114,2,out,Heinrich Klaasen,Gurkeerat Mann Singh,Jaydev Unadkat
+16,0,115,3,scored 1,Gurkeerat Mann Singh,AB de Villiers,Oshane Thomas
+16,1,116,3,scored 1,AB de Villiers,Gurkeerat Mann Singh,Oshane Thomas
+16,2,117,3,scored 1,Gurkeerat Mann Singh,AB de Villiers,Oshane Thomas
+16,3,118,3,scored 1,AB de Villiers,Gurkeerat Mann Singh,Oshane Thomas
+16,4,118,3,scored 0,Gurkeerat Mann Singh,AB de Villiers,Oshane Thomas
+16,5,119,3,scored 1,Gurkeerat Mann Singh,AB de Villiers,Oshane Thomas
+17,0,124,3,scored 5,Gurkeerat Mann Singh,AB de Villiers,Mahipal Lomror
+17,1,126,3,scored 2,AB de Villiers,Gurkeerat Mann Singh,Mahipal Lomror
+17,2,129,3,scored 3,AB de Villiers,Gurkeerat Mann Singh,Mahipal Lomror
+17,3,133,3,scored 4,Gurkeerat Mann Singh,AB de Villiers,Mahipal Lomror
+17,4,136,3,scored 3,Gurkeerat Mann Singh,AB de Villiers,Mahipal Lomror
+17,5,137,3,scored 1,AB de Villiers,Gurkeerat Mann Singh,Mahipal Lomror
+18,0,138,3,scored 1,AB de Villiers,Gurkeerat Mann Singh,Varun Aaron
+18,1,139,3,scored 1,Gurkeerat Mann Singh,AB de Villiers,Varun Aaron
+18,2,140,3,scored 1,AB de Villiers,Gurkeerat Mann Singh,Varun Aaron
+18,3,141,3,scored 1,Gurkeerat Mann Singh,AB de Villiers,Varun Aaron
+18,4,142,3,scored 1,AB de Villiers,Gurkeerat Mann Singh,Varun Aaron
+18,5,143,3,scored 1,Gurkeerat Mann Singh,AB de Villiers,Varun Aaron
+19,0,144,3,scored 1,Gurkeerat Mann Singh,AB de Villiers,Stuart Binny
+19,1,145,3,scored 1,AB de Villiers,Gurkeerat Mann Singh,Stuart Binny
+19,2,146,3,scored 1,Gurkeerat Mann Singh,AB de Villiers,Stuart Binny
+19,3,147,3,scored 1,AB de Villiers,Gurkeerat Mann Singh,Stuart Binny
+19,4,148,3,scored 1,Gurkeerat Mann Singh,AB de Villiers,Stuart Binny
+19,5,149,3,scored 1,AB de Villiers,Gurkeerat Mann Singh,Stuart Binny
